@@ -30,8 +30,16 @@ Each chapter is both **educational and actionable** — you can treat this as a 
   - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
  
 
+### 🧩 Key Definations
+- [Chapter 3: How AI search works](#chapter-2-how-ai-search-works.md)
+  - [From Retrieval to Generation](#from-retrieval-to-generation)
+  - [Core Components of AI Search](#core-components-of-ai-search)
+  - [How AI Evaluates Sources](#how-ai-evaluates-sources)
+  - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
+ 
+
 ### ✍️ Content Creation
-- [Chapter 3: Content Optimization Fundamentals](#chapter-3-content-optimization-fundamentals)
+- [Chapter 4: Content Optimization Fundamentals](#chapter-3-content-optimization-fundamentals)
   - [Semantic Understanding](#31-semantic-understanding)
   - [Entity-Based Content](#32-entity-based-content)
   - [Conversational Tone](#33-conversational-tone)
@@ -39,7 +47,7 @@ Each chapter is both **educational and actionable** — you can treat this as a 
   - [FAQ and Q&A Sections](#35-faq-and-qa-sections)
 
 ### ⚙️ Technical Implementation
-- [Chapter 4: Technical GEO Implementation](#chapter-4-technical-geo-implementation)
+- [Chapter 5: Technical GEO Implementation](#chapter-4-technical-geo-implementation)
   - [Schema.org Markup for AI](#41-schemaorg-markup-for-ai)
   - [Structured Data Best Practices](#42-structured-data-best-practices)
   - [XML Sitemaps for AI Crawlers](#43-xml-sitemaps-for-ai-crawlers)
@@ -47,7 +55,7 @@ Each chapter is both **educational and actionable** — you can treat this as a 
   - [Meta Tags for AI Platforms](#45-meta-tags-for-ai-platforms)
 
 ### 🚀 Strategic Growth
-- [Chapter 5: Advanced GEO Strategies](#chapter-5-advanced-geo-strategies)
+- [Chapter 6: Advanced GEO Strategies](#chapter-5-advanced-geo-strategies)
   - [Topic Clustering for AI](#51-topic-clustering-for-ai)
   - [Authority Building](#52-authority-building)
   - [Citation Optimization](#53-citation-optimization)
@@ -55,13 +63,16 @@ Each chapter is both **educational and actionable** — you can treat this as a 
   - [Multi-Platform Content Strategy](#55-multi-platform-content-strategy)
 
 ### 📊 Analytics & Tools
-- [Chapter 6: GEO Tools and Analytics](#chapter-6-geo-tools-and-analytics)
+- [Chapter 7: GEO Tools and Analytics](#chapter-6-geo-tools-and-analytics)
   - [Content Audit Tools](#61-content-audit-tools)
   - [AI Visibility Tracking](#62-ai-visibility-tracking)
   - [Citation Monitoring](#63-citation-monitoring)
   - [Performance Measurement](#64-performance-measurement)
   - [ROI Calculation](#65-roi-calculation)
 
+
+### 📖 Useful Materials
+- [Chapter 8: Appendix)
 
 ---
 
