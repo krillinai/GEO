@@ -18,7 +18,7 @@ AI engines interpret *meaning*, not just words.  They rely on **semantic relatio
 > 🧭 *Goal:* Help AI understand what your content *means* — not just what it *says.*
 
 
-## 4.2 Entity Modeling: Making KrillinAI Recognizable to AI Systems
+## 4.2 Entity Modeling: Making 'Entity' Recognizable to AI Systems
 
 AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-based knowledge graphs**.  Entities are recognizable objects: a company, person, technology, or concept that the AI can “link” to other ideas.
 
@@ -33,13 +33,13 @@ AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-ba
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
+  "@type": "Product",
   "name": "KrillinAI",
   "url": "https://www.krillin.ai",
   "industry": "AI Video Translation and Content Intelligence",
-  "description": "KrillinAI builds intelligent video translation and summarization systems that help global creators localize content at scale.",
+  "description": "KrillinAI builds intelligent video translation and dubbing tool that help global creators localize content at scale.",
   "sameAs": [
-    "https://github.com/KrillinAI",
+    "https://github.com/krillinai/KrillinAI",
     "https://en.wikipedia.org/wiki/Machine_translation"
   ]
 }
