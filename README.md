@@ -18,18 +18,17 @@ Each chapter is both **educational and actionable** — you can treat this as a 
 
 ### 🪶 About GEO
 - [Chapter 1: Introduction to GEO](#chapter-1-introduction-to-geo)
-  - [What is Generative Engine Optimization?](#what-is-generative-engine-optimization)
-  - [GEO vs Traditional SEO](#geo-vs-traditional-seo)
-  - [Why GEO Matters in 2024](#why-geo-matters-in-2024)
-  - [The AI Search Revolution](#the-ai-search-revolution)
-
-### 🔍 AI Search Ecosystem
-- [Chapter 2: Understanding AI Search Engines](#chapter-2-understanding-ai-search-engines)
-  - [ChatGPT and GPT-4 Optimization](#21-chatgpt-and-gpt-4-optimization)
-  - [Claude and Anthropic AI](#22-claude-and-anthropic-ai)
-  - [Perplexity AI Platform](#23-perplexity-ai-platform)
-  - [Bing Chat and Google Bard](#24-bing-chat-and-google-bard)
-  - [Emerging AI Platforms](#25-emerging-ai-platforms)
+  - [What is GEO?](#what-is-geo)
+  - [Why GEO Matters](#why-geo-matters)
+  - [GEO vs SEO](#geo-vs-seo)
+ 
+### 🧠 Inside the Mechanism of AI Search
+- [Chapter 2: How AI search works](#chapter-2-how-ai-search-works)
+  - [From Retrieval to Generation](#from-retrieval-to-generation)
+  - [Core Components of AI Search](#core-components-of-ai-search)
+  - [How AI Evaluates Sources](#how-ai-evaluates-sources)
+  - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
+ 
 
 ### ✍️ Content Creation
 - [Chapter 3: Content Optimization Fundamentals](#chapter-3-content-optimization-fundamentals)
