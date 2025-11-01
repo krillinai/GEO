@@ -5,7 +5,7 @@ Generative Engine Optimization (GEO) starts with **content** — not as keywords
 This chapter explores the core fundamentals that make content truly “AI-optimized.”
 
 
-## 4.1 Semantic Understanding
+## 4.1 Semantic Clarity: Writing for Meaning, Not Keywords
 
 AI engines interpret *meaning*, not just words.  They rely on **semantic relationships** — how concepts connect — rather than keyword frequency.
 
@@ -18,7 +18,7 @@ AI engines interpret *meaning*, not just words.  They rely on **semantic relatio
 > 🧭 *Goal:* Help AI understand what your content *means* — not just what it *says.*
 
 
-## 4.2 Entity-Based Content
+## 4.2 Entity Modeling: Making KrillinAI Recognizable to AI Systems
 
 AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-based knowledge graphs**.  Entities are recognizable objects: a company, person, technology, or concept that the AI can “link” to other ideas.
 
