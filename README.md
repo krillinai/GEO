@@ -3,7 +3,7 @@
 > Written and Maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on **content intelligence** and **global growth**.  
 > © 2025 KrillinAI. All rights reserved.
 
-## 🧩 What This Document Is
+## 🧩 What is this document about
 This repository is a **comprehensive technical and strategic guide** to  **Generative Engine Optimization (GEO)** — the emerging discipline that helps your brand gain visibility, credibility, and citations within AI-generated answers. Unlike traditional SEO, GEO focuses on **how AI systems (ChatGPT, Gemini, Perplexity, Claude, etc.) discover, interpret, and reference information** across the web.
 
 This document combines:
