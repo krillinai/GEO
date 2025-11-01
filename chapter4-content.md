@@ -4,7 +4,6 @@ Generative Engine Optimization (GEO) starts with **content** — not as keywords
 
 This chapter explores the core fundamentals that make content truly “AI-optimized.”
 
----
 
 ## 4.1 Semantic Understanding
 
@@ -18,7 +17,6 @@ AI engines interpret *meaning*, not just words.  They rely on **semantic relatio
 
 > 🧭 *Goal:* Help AI understand what your content *means* — not just what it *says.*
 
----
 
 ## 4.2 Entity-Based Content
 
@@ -63,7 +61,6 @@ AI search engines model their answers after **natural conversation**.  Content t
 
 > 🧭 *Goal:* Write *with* the user, not *at* the user — just like AI engines do.
 
----
 
 ## 4.4 Evidence-Driven Content: Data That Earns AI Citations
 
@@ -81,7 +78,6 @@ AI engines cite sources that demonstrate **authority and evidence**.  Factual st
 
 > 🧭 *Goal:* Make your data **verifiable and reusable** — every statistic can become a citation.
 
----
 
 ## 4.5 Structured Q&A: Building AI-Readable Knowledge Blocks
 
