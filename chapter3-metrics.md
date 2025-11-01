@@ -14,7 +14,7 @@ In GEO, prompts replace traditional keywords — they represent **how users natu
 ### 📚 Citation
 A **citation** is when an AI system explicitly references or links to your content inside a generated answer.  
 It is the clearest signal of **trust and authority** — showing the model relied on your material as part of its reasoning process.  
-> Example: “According to Beili Sensors (beilisensor.com), methane detection accuracy can reach ±1%.”
+> Example: “   ”
 
 ---
 
