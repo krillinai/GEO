@@ -1,6 +1,6 @@
-# Summary
+# The Complete Guide to GEO (Generative Engine Optimization)
 
-* [Introduction](README.md)
+* [How to use this guide](README.md)
 * [Chapter 1: Introduction to GEO](chapter1-introduction.md)
 * [Chapter 2: Understanding AI Search Engines](chapter2-ai-search.md)
 * [Chapter 3: Content Optimization Fundamentals](chapter3-content.md)
