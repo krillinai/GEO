@@ -17,13 +17,13 @@ Each chapter is both **educational and actionable** — you can treat this as a 
 ## 📑 Table of Contents
 
 ### 🪶 About GEO
-- [Chapter 1: Introduction to GEO](#chapter-1-introduction-to-geo)
+- [Chapter 1: Introduction to GEO](#chapter-1-introduction-to-geo.md)
   - [What is GEO?](#what-is-geo)
   - [Why GEO Matters](#why-geo-matters)
   - [GEO vs SEO](#geo-vs-seo)
  
 ### 🧠 Inside the Mechanism of AI Search
-- [Chapter 2: How AI search works](#chapter-2-how-ai-search-works)
+- [Chapter 2: How AI search works](#chapter-2-how-ai-search-works.md)
   - [From Retrieval to Generation](#from-retrieval-to-generation)
   - [Core Components of AI Search](#core-components-of-ai-search)
   - [How AI Evaluates Sources](#how-ai-evaluates-sources)
@@ -71,7 +71,7 @@ Each chapter is both **educational and actionable** — you can treat this as a 
 If you’re new to GEO:
 1. Start with **[Chapter 1: Introduction to GEO](./chapter1-introduction.md)**  
    → Understand the paradigm shift from SEO to GEO.  
-2. Read **[Chapter 2–3](./chapter2-ai-search.md)** to learn how AI search engines interpret your content.  
+2. Read **[Chapter 2](./chapter-2-how-ai-search-works.md)** to learn how AI search engines interpret your content.  
 3. When ready to implement, go to **[Chapter 4: Technical GEO Implementation](./chapter4-technical.md)**.  
 4. Use **[Chapter 5](./chapter5-strategy.md)** and **[Chapter 6](./chapter6-analytics.md)** to scale, measure, and iterate.
 
