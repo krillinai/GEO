@@ -1,7 +1,6 @@
 # Chapter 3: Key Definitions and Metrics
 
-Before we discuss writing techniques and AI-friendly content structures,  
-it’s crucial to understand the **core definitions and metrics** that define success in Generative Engine Optimization (GEO).
+Before we discuss writing techniques and AI-friendly content structures,  it’s crucial to understand the **core definitions and metrics** that define success in Generative Engine Optimization (GEO).
 
 ---
 
@@ -20,23 +19,19 @@ It is the clearest signal of **trust and authority** — showing the model relie
 ---
 
 ### 💬 Mention
-A **mention** occurs when your brand or product is named within an AI-generated response,  
-even without a hyperlink.  
-Mentions build **brand familiarity** across conversational interfaces —  
-they’re visibility without attribution.
+A **mention** occurs when your brand or product is named within an AI-generated response,  even without a hyperlink.  
+Mentions build **brand familiarity** across conversational interfaces —  they’re visibility without attribution.
 
 ---
 
 ### 🔗 Visibility
 **Visibility** measures how often your brand appears in AI-generated answers related to your domain.  
-It is the GEO equivalent of SEO ranking, but instead of positions on a results page,  
-it tracks **presence in answers**.
+It is the GEO equivalent of SEO ranking, but instead of positions on a results page,  it tracks **presence in answers**.
 
 ---
 
 ### 💡 Sentiment
-**Sentiment** reflects the tone and context of how your brand appears in AI-generated outputs —  
-positive, neutral, or negative.  
+**Sentiment** reflects the tone and context of how your brand appears in AI-generated outputs —  positive, neutral, or negative.  
 Sentiment shapes how audiences perceive your credibility and authority through AI narratives.
 
 ---
