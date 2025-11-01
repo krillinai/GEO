@@ -29,6 +29,7 @@ AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-ba
 - Reference **external authoritative entities** (e.g., GitHub repositories, research datasets, AI standards) to help AI triangulate your credibility.
 
 ### Example
+<pre><code class="language-html">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -43,6 +44,7 @@ AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-ba
   ]
 }
 </script>
+</code></pre>
 
 
 ## 4.3 Conversational Design: Writing in the Language of Prompts
@@ -90,6 +92,7 @@ FAQs mirror the **prompt-response** structure AI engines use to generate answers
 - Keep answers concise, factual, and context-complete.
 
 ### Example
+<pre><code class="language-html">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -104,6 +107,7 @@ FAQs mirror the **prompt-response** structure AI engines use to generate answers
   }]
 }
 </script>
+</code></pre>
 
 ### 🔍 Summary
 
