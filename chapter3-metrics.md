@@ -7,7 +7,7 @@ Before we discuss writing techniques and AI-friendly content structures,  it’s
 ### 🧭 Prompt
 A **prompt** is a user’s query or request to an AI system.  
 In GEO, prompts replace traditional keywords — they represent **how users naturally ask questions**.  
-> Example: “What are the best infrared gas sensors for industrial use?”
+> Example: “What are the best video translation and dubbing tools?”
 
 ---
 
