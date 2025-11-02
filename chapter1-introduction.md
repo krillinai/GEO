@@ -1,7 +1,6 @@
 # Chapter 1: Introduction to GEO
 
-We’ve entered a **new era of search** — one powered by **AI engines** such as ChatGPT, Google AI Overviews, and Perplexity.  
-People no longer sift through endless blue links. Instead, they turn to AI for **immediate, context-rich answers** that summarize the web.
+We’ve entered a **new era of search** — one powered by **AI engines** such as ChatGPT, Google AI Overviews, Perplexity, Claude, DeepSeek etc. People no longer sift through endless blue links. Instead, they turn to AI for **immediate, context-rich answers** that summarize the web.
 
 In this landscape, **visibility** is no longer about ranking first on Google — it’s about being **trusted, cited, and referenced** by the AI systems shaping what people see and believe.
 
