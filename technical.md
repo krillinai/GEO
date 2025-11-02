@@ -23,7 +23,7 @@ By embedding Schema.org markup (in JSON-LD format), you help AI engines interpre
 - Include **author, datePublished, citation, and sameAs** fields to strengthen AI trust signals.  
 
 ### Example
-
+<pre><code class="language-html">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -54,6 +54,7 @@ By embedding Schema.org markup (in JSON-LD format), you help AI engines interpre
   ]
 }
 </script>
+</code></pre>
 
 ## 5.2 Building a Consistent Structured Data Layer
 
@@ -83,7 +84,7 @@ Sitemaps are not just for search engines anymore — they guide AI crawlers to y
 - Maintain separate sitemaps for **blogs**, **datasets**, and **product categories** if your site is large.  
 
 ### Example
-
+<pre><code class="language-html">
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
@@ -97,6 +98,7 @@ Sitemaps are not just for search engines anymore — they guide AI crawlers to y
     <priority>0.7</priority>
   </url>
 </urlset>
+</code></pre>
 
 ---
 
@@ -145,7 +147,7 @@ Modern AI systems use metadata to interpret content hierarchy, freshness, and cr
 - Use **canonical tags** to consolidate duplicate or similar pages, ensuring a single authoritative version.  
 
 ### Example
-
+```html
 <meta name="description" content="Discover how KrillinAI's AI-powered video translation technology helps creators and enterprises reach global audiences with instant, accurate localization.">
 <meta property="og:title" content="AI Video Translation & Localization | KrillinAI">
 <meta property="og:type" content="article">
