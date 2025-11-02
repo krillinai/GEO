@@ -4,15 +4,19 @@
 > © 2025 KrillinAI. All rights reserved.
 
 ## 🧩 What is this document about
-This repository is a **comprehensive technical and strategic guide** to  **Generative Engine Optimization (GEO)** — the emerging discipline that helps your brand gain visibility, credibility, and citations within AI-generated answers. Unlike traditional SEO, GEO focuses on **how AI systems (ChatGPT, Gemini, Perplexity, Claude, etc.) discover, interpret, and reference information** across the web.
 
-This document combines:
-- 📖 **Foundational concepts** — What GEO is, and why it matters  
-- ⚙️ **Technical implementation** — Schema, structured data, and AI-friendly markup  
-- 🎯 **Strategic frameworks** — Topic clustering, citation optimization, multi-platform GEO  
-- 📊 **Measurement systems** — Visibility metrics, citation share, sentiment, ROI tracking  
+This repository is a **comprehensive technical and strategic guide** to **Generative Engine Optimization (GEO)** — the new discipline of making your brand *visible, credible, and citable* in AI-generated answers.  
 
-Each chapter is both **educational and actionable** — you can treat this as a whitepaper *and* as a step-by-step playbook for your marketing or AI growth team.
+Unlike traditional SEO, which focuses on ranking on Google, **GEO focuses on visibility inside AI systems** — such as ChatGPT, Claude, Gemini, and Perplexity — that now summarize the web instead of listing links.
+
+This documentation blends **strategy, data, and implementation**:
+- 🧠 **Foundational concepts** — Understanding GEO and how AI search works  
+- 🧩 **Content frameworks** — Structuring information for AI comprehension and citation  
+- ⚙️ **Technical implementation** — Schema.org, structured data, sitemaps, and markup  
+- 🚀 **Strategic execution** — Authority building, multi-platform GEO, and prompt-based discovery  
+- 📊 **Measurement & analytics** — Visibility, citation share, sentiment, and ROI tracking  
+
+Each chapter is both **educational and actionable** — think of this as a *whitepaper for understanding* and a *playbook for execution*.  
 
 ## 📑 Table of Contents
 
@@ -78,19 +82,37 @@ Each chapter is both **educational and actionable** — you can treat this as a 
 
 ## 🧭 How to Use This Documentation
 
-### 🪶 For Readers
-If you’re new to GEO:
-1. Start with **[Chapter 1: Introduction to GEO](./chapter1-introduction.md)**  
-   → Understand the paradigm shift from SEO to GEO.  
-2. Read **[Chapter 2](./chapter-2-how-ai-search-works.md)** to learn how AI search engines interpret your content.  
-3. When ready to implement, go to **[Chapter 4: Technical GEO Implementation](./chapter4-technical.md)**.  
-4. Use **[Chapter 5](./chapter5-strategy.md)** and **[Chapter 6](./chapter6-analytics.md)** to scale, measure, and iterate.
+### 🧭 For Readers
+
+If you are new to GEO or exploring how AI reshapes search visibility:
+
+1. **Start with [Chapter 1: Introduction to GEO](./chapter1-introduction.md)**  
+   → Learn what GEO is, and why traditional SEO is no longer enough.  
+2. **Continue to [Chapter 2: How AI Search Works](./chapter2-ai-search-mechanism.md)**  
+   → Understand how ChatGPT, Gemini, Claude, and Perplexity interpret and generate answers.  
+3. **Move into [Chapter 3: Key Definitions & Metrics](./chapter3-definitions.md)**  
+   → Get familiar with the essential GEO metrics like citations, mentions, and trust signals.  
+4. **Explore [Chapter 4: Content Optimization Fundamentals](./chapter4-content.md)**  
+   → Learn how to write content that AI can understand, verify, and quote.  
+5. When ready, dive into **[Chapter 5–7]** for implementation, advanced strategies, and analytics.  
+
+> 🪶 *Goal:* Help you clearly see how the new “AI search ecosystem” works —  
+> and how to position your content and brand within it.
+
 
 ---
 
-### 🧰 For Practitioners and Teams
-If you’re a **marketing or technical team** applying GEO to real projects:
-- Use **Chapter 3–4** as your **on-page optimization checklist**.  
-- Use **Chapter 5–6** as your **strategy and analytics framework**.  
-- Integrate GEO tracking (visibility, citation, sentiment) into your analytics stack or dashboards.  
-- Combine this documentation with AI testing — prompt ChatGPT, Perplexity, etc., to measure how often your brand is mentioned or cited.
+## 🧰 For Practitioners and Teams
+
+If you’re part of a **marketing, content, or data team** implementing GEO in practice:
+
+- Use **Chapters 3–4** as your **on-page and content optimization checklist**  
+  → Craft AI-readable, citation-worthy, and semantically structured content.  
+- Use **Chapters 5–6** as your **technical and strategic framework**  
+  → Implement Schema.org, structured data, and cross-platform GEO campaigns.  
+- Use **Chapter 7** for **analytics and ROI measurement**  
+  → Track AI visibility, sentiment, and citation frequency across generative platforms.  
+- Use **Chapter 8 (Appendix)** for templates, schema snippets, and benchmark references.  
+
+> 🎯 *Goal:* Equip your team with the exact frameworks, metrics, and examples  
+> to **measure and scale GEO** — ensuring your brand is discoverable inside AI-powered answers.
