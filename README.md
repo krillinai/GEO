@@ -20,30 +20,24 @@ Each chapter is both **educational and actionable** — think of this as a *whit
 
 ## 📑 Table of Contents
 
-### 🪶 About GEO
 - [Chapter 1: Introduction to GEO](#chapter1-introduction.md)
   - [What is GEO?](#what-is-geo)
   - [Why GEO Matters](#why-geo-matters)
   - [GEO vs SEO](#geo-vs-seo)
   - [Who needs GEO](#who-needs-geo)
  
-### 🧠 Inside the Mechanism of AI Search
 - [Chapter 2: How AI search works](#chapter-2-how-ai-search-works.md)
   - [From Retrieval to Generation](#from-retrieval-to-generation)
   - [Core Components of AI Search](#core-components-of-ai-search)
   - [How AI Evaluates Sources](#how-ai-evaluates-sources)
   - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
  
-
-### 🧩 Understanding GEO Terminology & Measurement
 - [Chapter 3: Key Definitions and Core Metrics ](#chapter3-metrics.md)
   - [From Retrieval to Generation](#from-retrieval-to-generation)
   - [Core Components of AI Search](#core-components-of-ai-search)
   - [How AI Evaluates Sources](#how-ai-evaluates-sources)
   - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
  
-
-### ✍️ Content Creation & Optimization  
 - [Chapter 4: Building AI-Readable, Human-Engaging Content](#chapter-4-building-ai-readable-human-engaging-content)
   - Understanding Semantic Meaning
   - Modeling Entities for AI Comprehension
@@ -51,7 +45,6 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - Using Evidence and Data for Citations 
   - Structuring FAQs and Knowledge Blocks
 
-### 🚀 Strategic Growth  
 - [Chapter 5: Expanding GEO Influence and Brand Authority](#chapter5-expanding-geo-influence-and-brand-authority)
   - Building Semantic Topic Clusters for AI 
   - Establishing Brand Authority in Generative Search
@@ -59,7 +52,6 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - Designing Long-Tail Conversational Prompts
   - Executing a Multi-Platform GEO Strategy
 
-### ⚙️ Technical Implementation  
 - [Chapter 6: Making Your Website Machine-Readable for AI Systems](#chapter6-making-your-website-machine-readable-for-ai-systems)
   - Implementing Schema.org for AI Discovery
   - Building a Consistent Structured Data Layer
@@ -67,7 +59,6 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - Configuring Robots.txt for Responsible AI Access
   - Optimizing Metadata for AI Comprehension
 
-### 📊 Analytics & Tools  
 - [Chapter 7: Measuring, Tracking, and Improving GEO Performance](#chapter-7-measuring-tracking-and-improving-geo-performance)
   - Auditing Your GEO Content and Structure
   - Tracking AI Visibility Across Platforms
@@ -75,7 +66,6 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - Measuring Performance and Impact 
   - Calculating ROI of GEO Initiatives
 
-### 📖 Useful Materials  
 - [Chapter 8: Appendix — Resources, Research & Industry Insights](#chapter-8-appendix-resources-research-and-industry-insights)
   - 🧰 Tools & Platforms
   - 📚 Research Papers & Academic Studies
