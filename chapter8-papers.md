@@ -64,9 +64,6 @@
 
 A selection of independent analyses tracking how AI-driven discovery reshapes visibility, authority, and user engagement.
 
-- [**AI Search Landscape 2025 — Gartner Insight Brief**](https://www.gartner.com/en/research)  
-  Overview of leading generative search engines and how their retrieval methods affect brand visibility.
-
 - [**Generative Engine Adoption Report (2024) — Andreessen Horowitz**](https://a16z.com)  
   Examines user adoption trends across AI assistants and summarizes implications for marketers and publishers.
 
