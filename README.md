@@ -48,7 +48,7 @@ Each chapter is both **educational and actionable** — think of this as a *whit
 - [4.4 Evidence-Driven Content](#44-evidence-driven-content)
 - [4.5 Structured Q&A](#45-structured-qa)
 
-## 🚀 Chapter 5: Expanding GEO Influence and Brand Authority
+### 🚀 Chapter 5: Expanding GEO Influence and Brand Authority
 - [5.1 Building Semantic Topic Clusters for AI](#51-building-semantic-topic-clusters-for-ai)
 - [5.2 Establishing Brand Authority in Generative Search](#52-establishing-brand-authority-in-generative-search)
 - [5.3 Optimizing Citations and External Mentions](#53-optimizing-citations-and-external-mentions)
