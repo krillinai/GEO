@@ -20,58 +20,60 @@ Each chapter is both **educational and actionable** — think of this as a *whit
 
 ## 📑 Table of Contents
 
-- [Chapter 1: Introduction to GEO](#chapter1-introduction.md)
-  - [What is GEO?](#what-is-geo)
-  - [Why GEO Matters](#why-geo-matters)
-  - [GEO vs SEO](#geo-vs-seo)
-  - [Who needs GEO](#who-needs-geo)
- 
-- [Chapter 2: How AI search works](#chapter-2-how-ai-search-works.md)
-  - [From Retrieval to Generation](#from-retrieval-to-generation)
-  - [Core Components of AI Search](#core-components-of-ai-search)
-  - [How AI Evaluates Sources](#how-ai-evaluates-sources)
-  - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
- 
-- [Chapter 3: Key Definitions and Core Metrics ](#chapter3-metrics.md)
-  - [From Retrieval to Generation](#from-retrieval-to-generation)
-  - [Core Components of AI Search](#core-components-of-ai-search)
-  - [How AI Evaluates Sources](#how-ai-evaluates-sources)
-  - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
- 
-- [Chapter 4: Building AI-Readable, Human-Engaging Content](#chapter-4-building-ai-readable-human-engaging-content)
-  - Understanding Semantic Meaning
-  - Modeling Entities for AI Comprehension
-  - Designing Conversational Content 
-  - Using Evidence and Data for Citations 
-  - Structuring FAQs and Knowledge Blocks
+### 🪶 [Chapter 1: Introduction to GEO](#chapter-1-introduction-to-geo)
+- [1.1 What is GEO?](#11-what-is-geo)
+- [1.2 Why GEO Matters](#12-why-geo-matters)
+- [1.3 GEO vs SEO](#13-geo-vs-seo)
+- [1.4 Who Needs GEO](#14-who-needs-geo)
 
-- [Chapter 5: Expanding GEO Influence and Brand Authority](#chapter5-expanding-geo-influence-and-brand-authority)
-  - Building Semantic Topic Clusters for AI 
-  - Establishing Brand Authority in Generative Search
-  - Optimizing Citations and External Mentions  
-  - Designing Long-Tail Conversational Prompts
-  - Executing a Multi-Platform GEO Strategy
+### 🧠 [Chapter 2: How AI Search Works](#chapter-2-how-ai-search-works)
+- [2.1 From Retrieval to Generation](#21-from-retrieval-to-generation)
+- [2.2 Core Components of AI Search](#22-core-components-of-ai-search)
+- [2.3 How AI Evaluates Sources](#23-how-ai-evaluates-sources)
+- [2.4 The Life Cycle of an AI Answer](#24-the-life-cycle-of-an-ai-answer)
 
-- [Chapter 6: Making Your Website Machine-Readable for AI Systems](#chapter6-making-your-website-machine-readable-for-ai-systems)
-  - Implementing Schema.org for AI Discovery
-  - Building a Consistent Structured Data Layer
-  - Designing XML Sitemaps for Generative Crawlers
-  - Configuring Robots.txt for Responsible AI Access
-  - Optimizing Metadata for AI Comprehension
+### 🧩 [Chapter 3: Key Definitions and Metrics](#chapter-3-key-definitions-and-metrics)
+- [Prompt](#-prompt)
+- [Citation](#-citation)
+- [Mention](#-mention)
+- [Visibility](#-visibility)
+- [Sentiment](#-sentiment)
+- [Trust Signal](#-trust-signal)
+- [Core GEO Metrics](#-core-geo-metrics)
 
-- [Chapter 7: Measuring, Tracking, and Improving GEO Performance](#chapter-7-measuring-tracking-and-improving-geo-performance)
-  - Auditing Your GEO Content and Structure
-  - Tracking AI Visibility Across Platforms
-  - Monitoring Citations and Mentions in Real Time
-  - Measuring Performance and Impact 
-  - Calculating ROI of GEO Initiatives
+### ✍️ [Chapter 4: Content Optimization](#chapter-4-content-optimization)
+- [4.1 Semantic Clarity](#41-semantic-clarity)
+- [4.2 Entity Modeling](#42-entity-modeling)
+- [4.3 Conversational Design](#43-conversational-design)
+- [4.4 Evidence-Driven Content](#44-evidence-driven-content)
+- [4.5 Structured Q&A](#45-structured-qa)
 
-- [Chapter 8: Appendix — Resources, Research & Industry Insights](#chapter-8-appendix-resources-research-and-industry-insights)
-  - 🧰 Tools & Platforms
-  - 📚 Research Papers & Academic Studies
-  - 📊 Market Reports & Benchmark Studies
-  - 🧭 Frameworks & Templates
-  - 🌐 Further Reading & Learning Resources
+### 🚀 [Chapter 5: Expanding GEO Influence and Brand Authority](#chapter-5-expanding-geo-influence-and-brand-authority)
+- [Building Semantic Topic Clusters for AI](#building-semantic-topic-clusters-for-ai)
+- [Establishing Brand Authority in Generative Search](#establishing-brand-authority-in-generative-search)
+- [Optimizing Citations and External Mentions](#optimizing-citations-and-external-mentions)
+- [Designing Long-Tail Conversational Prompts](#designing-long-tail-conversational-prompts)
+- [Executing a Multi-Platform GEO Strategy](#executing-a-multi-platform-geo-strategy)
+
+### ⚙️ [Chapter 6: Technical GEO Implementation](#chapter-6-technical-geo-implementation)
+- [6.1 Schema.org Markup for AI](#61-schemaorg-markup-for-ai)
+- [6.2 Building a Consistent Structured Data Layer](#62-building-a-consistent-structured-data-layer)
+- [6.3 XML Sitemaps for AI Discovery](#63-xml-sitemaps-for-ai-discovery)
+- [6.4 Robots.txt Configuration for AI Crawlers](#64-robotstxt-configuration-for-ai-crawlers)
+- [6.5 Metadata Optimization for AI Understanding](#65-metadata-optimization-for-ai-understanding)
+
+### 📊 [Chapter 7: GEO Tools and Analytics](#chapter-7-geo-tools-and-analytics)
+- [7.1 Content Audit Tools](#71-content-audit-tools)
+- [7.2 AI Visibility Tracking](#72-ai-visibility-tracking)
+- [7.3 Citation Monitoring](#73-citation-monitoring)
+- [7.4 Performance Measurement](#74-performance-measurement)
+
+### 📖 [Chapter 8: Appendix — Resources, Research & Industry Insights](#chapter-8-appendix--resources-research--industry-insights)
+- [8.1 GEO & AI Visibility Platforms](#81-geo--ai-visibility-platforms)
+- [8.2 Relevant Papers & Reports](#82-relevant-papers--reports-on-geo-and-ai-search-visibility)
+- [8.3 Market Reports & Benchmark Studies](#-83-market-reports--benchmark-studies)
+- [8.4 Frameworks & Templates](#-84-frameworks--templates)
+
 
 ---
 
@@ -133,8 +135,6 @@ It’s not about chasing keywords or backlinks anymore — it’s about ensuring
 
 GEO helps AI models **understand, verify, and confidently include** your content as a trustworthy source.
 
----
-
 ## 1.2 Why GEO Matters
 
 - **Traditional rankings** no longer guarantee visibility.  
@@ -144,9 +144,7 @@ GEO helps AI models **understand, verify, and confidently include** your content
 
 > GEO ensures your brand is **discoverable, credible, and relevant** in the age of AI-powered discovery.
 
----
-
-## 1.3 GEO vs SEO(Search Engine Optimization)
+## 1.3 GEO vs SEO
 
 **GEO** focuses on earning **trust, citations, and visibility** within AI-generated answers,  while **SEO** focuses on ranking within traditional search results.
 
@@ -162,8 +160,6 @@ In the age of AI-powered discovery, GEO defines **whether your brand is part of 
 | **Time Horizon** | Continuous learning as AI models evolve | Ongoing optimization |
 
 > **In short:** SEO ranks pages. GEO earns trust.
-
----
 
 ## 1.4 Who Needs GEO
 
@@ -193,8 +189,6 @@ For emerging companies, GEO can level the playing field.  You may not outspend i
 To master Generative Engine Optimization (GEO), we must first understand **how AI search engines think**.  
 Unlike traditional search engines that index and rank billions of pages, AI systems such as ChatGPT, Gemini, Claude, and Perplexity **generate** answers — synthesizing knowledge instead of listing it.
 
----
-
 ## 2.1 From Retrieval to Generation
 
 Traditional search = *Retrieve and Rank.*  
@@ -206,8 +200,6 @@ AI search = *Retrieve, Reason, and Respond.*
 
 > 🧭 *Key insight:* Visibility in AI search depends on whether your content is retrievable, interpretable, and credible enough to be reused during generation.
 
----
-
 ## 2.2 Core Components of AI Search
 
 | Layer | Function | GEO Relevance |
@@ -217,8 +209,6 @@ AI search = *Retrieve, Reason, and Respond.*
 | **Ranking / Scoring** | Weighs source reliability, recency, and alignment | Build factual authority and current data |
 | **Generative Model** | Synthesizes the final answer text | Clear, well-structured language improves inclusion |
 | **Citation Engine** | Selects and formats attributions | Provide verifiable facts and transparent authorship |
-
----
 
 ## 2.3 How AI Evaluates Sources
 
@@ -231,8 +221,6 @@ AI engines prioritize:
 - **Freshness** – How recently was it updated?  
 
 > 🧭 *Goal:* Align your content with these dimensions so models can identify it as a high-trust input.
-
----
 
 ## 2.4 The Life Cycle of an AI Answer
 
@@ -275,8 +263,6 @@ Typical examples include:
 
 > 🧭 *Goal:* Strengthen every trust signal to improve the likelihood of being cited by AI systems.
 
----
-
 ### 📊 Core GEO Metrics
 
 | **Metric** | **Description** | **Example / Application** |
@@ -301,7 +287,6 @@ Generative Engine Optimization (GEO) starts with **content** — not as keywords
 
 This chapter explores the core fundamentals that make content truly “AI-optimized.”
 
-
 ## 4.1 Semantic Clarity
 
 AI engines interpret *meaning*, not just words.  They rely on **semantic relationships** — how concepts connect — rather than keyword frequency.
@@ -313,7 +298,6 @@ AI engines interpret *meaning*, not just words.  They rely on **semantic relatio
 - Organize information using **headings and semantic HTML tags** (`<h2>`, `<section>`, `<article>`).
 
 > 🧭 *Goal:* Help AI understand what your content *means* — not just what it *says.*
-
 
 ## 4.2 Entity Modeling
 
@@ -342,7 +326,6 @@ AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-ba
 </script>
 </code></pre>
 
-
 ## 4.3 Conversational Design
 
 AI search engines model their answers after **natural conversation**.  Content that mirrors this tone is more likely to be surfaced in generative summaries or recommendations.
@@ -359,7 +342,6 @@ AI search engines model their answers after **natural conversation**.  Content t
 
 > 🧭 *Goal:* Write *with* the user, not *at* the user — just like AI engines do.
 
-
 ## 4.4 Evidence-Driven Content
 
 AI engines cite sources that demonstrate **authority and evidence**.  Factual statements supported by verifiable data are far more likely to be quoted or referenced.
@@ -375,7 +357,6 @@ AI engines cite sources that demonstrate **authority and evidence**.  Factual st
 > based on internal performance benchmarks (2025).
 
 > 🧭 *Goal:* Make your data **verifiable and reusable** — every statistic can become a citation.
-
 
 ## 4.5 Structured Q&A
 
