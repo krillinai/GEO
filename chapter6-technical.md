@@ -1,16 +1,12 @@
 # Chapter 6: Technical GEO Implementation
 
-While content defines *what* AI understands, **technical GEO** determines *whether* AI can **find, parse, and trust** it.  
-Generative engines rely heavily on **structured data**, **clear site signals**, and **machine-readable frameworks** to identify authoritative sources.
+While content defines *what* AI understands, **technical GEO** determines *whether* AI can **find, parse, and trust** it.  Generative engines rely heavily on **structured data**, **clear site signals**, and **machine-readable frameworks** to identify authoritative sources.
 
 This chapter covers the key technical elements that make your site AI-friendly.
 
----
-
 ## 6.1 Schema.org Markup for AI
 
-Structured data is the foundation of **machine comprehension**.  
-By embedding Schema.org markup (in JSON-LD format), you help AI engines interpret your pages precisely — identifying what’s an organization, product, review, FAQ, or dataset.
+Structured data is the foundation of **machine comprehension**.  By embedding Schema.org markup (in JSON-LD format), you help AI engines interpret your pages precisely — identifying what’s an organization, product, review, FAQ, or dataset.
 
 ### GEO Best Practices
 - Use **JSON-LD format** (not microdata) for clarity and scalability.  
@@ -49,8 +45,6 @@ By embedding Schema.org markup (in JSON-LD format), you help AI engines interpre
   },
   "sameAs": [
     "https://github.com/KrillinAI",
-    "https://www.linkedin.com/company/krillinai/",
-    "https://en.wikipedia.org/wiki/Machine_translation"
   ]
 }
 </script>
@@ -58,8 +52,7 @@ By embedding Schema.org markup (in JSON-LD format), you help AI engines interpre
 
 ## 6.2 Building a Consistent Structured Data Layer
 
-Structured data helps AI models understand **hierarchies, relationships, and semantics**.  
-It’s what bridges your content and how AI systems perceive your brand.
+Structured data helps AI models understand **hierarchies, relationships, and semantics**.  It’s what bridges your content and how AI systems perceive your brand.
 
 ### GEO Best Practices
 - Use **consistent identifiers** across all schemas (e.g., brand name, URLs, IDs).  
@@ -69,8 +62,6 @@ It’s what bridges your content and how AI systems perceive your brand.
 - Consider nested entities: embed `Product` inside `Organization`, or `Question` inside `FAQPage`.  
 
 > 🧭 **Goal:** Create a clean, consistent semantic data layer across your entire KrillinAI domain.
-
----
 
 ## 6.3 XML Sitemaps for AI Discovery
 
@@ -100,12 +91,9 @@ Sitemaps are not just for search engines anymore — they guide AI crawlers to y
 </urlset>
 </code></pre>
 
----
-
 ## 6.4 Robots.txt Configuration for AI Crawlers
 
-A well-structured `robots.txt` ensures that AI engines and traditional bots can access your content appropriately —  
-and that sensitive or irrelevant pages are excluded.
+A well-structured `robots.txt` ensures that AI engines and traditional bots can access your content appropriately —  and that sensitive or irrelevant pages are excluded.
 
 ### GEO Best Practices
 - Allow **major AI crawlers**:  
@@ -137,8 +125,7 @@ Sitemap: https://www.krillin.ai/sitemap.xml
 
 ## 6.5 Metadata Optimization for AI Understanding
 
-Meta tags are no longer just SEO tools — they now communicate **intent, authorship, and structure** to AI platforms.  
-Modern AI systems use metadata to interpret content hierarchy, freshness, and credibility before even reading the full text.
+Meta tags are no longer just SEO tools — they now communicate **intent, authorship, and structure** to AI platforms.  Modern AI systems use metadata to interpret content hierarchy, freshness, and credibility before even reading the full text.
 
 ### GEO Best Practices
 - Use **`og:` (Open Graph)** and **`twitter:`** tags for clear summarization.  
@@ -154,6 +141,6 @@ Modern AI systems use metadata to interpret content hierarchy, freshness, and cr
 <meta property="og:url" content="https://www.krillin.ai/insights/ai-video-translation">
 <meta property="og:site_name" content="KrillinAI">
 <meta name="robots" content="index,follow">
-<meta name="author" content="KrillinAI Research Team">
+<meta name="author" content="KrillinAI Team">
 <meta name="language" content="en">
 <meta property="og:locale" content="en_US">
