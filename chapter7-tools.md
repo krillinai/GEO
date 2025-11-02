@@ -1,15 +1,13 @@
 # Chapter 7: GEO Tools and Analytics
 
-Generative Engine Optimization (GEO) is only as powerful as its measurement.  
-To grow visibility within AI engines, you need to track **how**, **where**, and **why** your brand appears in AI-generated answers — and how that visibility evolves over time.
+Generative Engine Optimization (GEO) is only as powerful as its measurement.  To grow visibility within AI engines, you need to track **how**, **where**, and **why** your brand appears in AI-generated answers — and how that visibility evolves over time.
 
 This chapter introduces the key tools, metrics, and frameworks for **monitoring, analyzing, and improving** GEO performance.
 
 
 ## 7.1 Content Audit Tools
 
-Before measuring visibility, you must ensure your content is technically sound and semantically rich.  
-A **GEO-oriented content audit** evaluates whether your pages are optimized for machine understanding.
+Before measuring visibility, you must ensure your content is technically sound and semantically rich.  A **GEO-oriented content audit** evaluates whether your pages are optimized for machine understanding.
 
 ### Recommended Tools
 | Purpose | Tool | Use Case |
@@ -24,8 +22,7 @@ A **GEO-oriented content audit** evaluates whether your pages are optimized for 
 
 ## 7.2 AI Visibility Tracking
 
-Traditional SEO uses keyword rankings.  
-GEO, by contrast, uses **AI visibility metrics** — how often your brand or domain appears in AI-generated responses across multiple engines.
+Traditional SEO uses keyword rankings.  GEO, by contrast, uses **AI visibility metrics** — how often your brand or domain appears in AI-generated responses across multiple engines.
 
 ### Visibility Tracking Approaches
 - **Prompt Testing:** Ask ChatGPT, Claude, Perplexity, and Gemini the top 100 queries in your niche. Record whether your brand appears in their answers or citations.  
