@@ -100,8 +100,6 @@ If you are new to GEO or exploring how AI reshapes search visibility:
 > and how to position your content and brand within it.
 
 
----
-
 ## 🧰 For Practitioners and Teams
 
 If you’re part of a **marketing, content, or data team** implementing GEO in practice:
