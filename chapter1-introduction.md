@@ -2,7 +2,7 @@
 
 We’ve entered a **new era of search** — one powered by **AI engines** such as ChatGPT, Google AI Overviews, Perplexity, Claude, DeepSeek etc. People no longer sift through endless blue links. Instead, they turn to AI for **immediate, context-rich answers** that summarize the web.
 
-In this landscape, **visibility** is no longer about ranking first on Google — it’s about being **trusted, cited, and referenced** by the AI systems shaping what people see and believe.
+In this landscape, **visibility** is no longer about ranking first on search engines like Google, Baidu — it’s about being **trusted, cited, and referenced** by the AI systems shaping what people see and believe.
 
 ---
 - [1.1 What is GEO?](#11-what-is-geo)
@@ -15,7 +15,7 @@ In this landscape, **visibility** is no longer about ranking first on Google —
 ## 1.1 What is GEO?
 
 **GEO** is the practice of making your brand **visible, credible, and citable** within AI-generated responses.  
-It’s not about chasing keywords or backlinks anymore — it’s about ensuring that when tools like ChatGPT or Bard respond to users, **your brand is part of the story**.
+It’s not about chasing keywords or backlinks anymore — it’s about ensuring that when tools like ChatGPT or Gemini respond to users, **your brand is part of the story**.
 
 GEO helps AI models **understand, verify, and confidently include** your content as a trustworthy source.
 
