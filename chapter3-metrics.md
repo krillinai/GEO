@@ -41,7 +41,7 @@ Typical examples include:
 |:------------|:----------------|:---------------------------|
 | **Prompt Coverage** | % of key AI prompts in which your brand or content appears | “KrillinAI” appears in 47% of AI video translation–related queries |
 | **Citation Share** | Share of total citations referencing your content vs. competitors | 3 of 10 Perplexity answers cite your site |
-| **Visibility Score** | Composite index of mentions + citations + sentiment | 0.72 (↑ from 0.65 last quarter) |
+| **Visibility Score** | Composite index of mentions + citations + sentiment | 72& (↑ from 65& last quarter) |
 | **Authority Weight** | AI trust score derived from structured data and cross-source consistency | High = model more likely to reuse your content |
 | **Sentiment Index** | Weighted measure of positive vs. negative references | +0.42 indicates generally favorable mentions |
 | **Trust Density** | Average number of verifiable data points per 1,000 words of content | 3.8 trust elements / 1k words |
