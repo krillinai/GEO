@@ -40,7 +40,6 @@ AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-ba
   "description": "KrillinAI builds intelligent video translation and dubbing tool that help global creators localize content at scale.",
   "sameAs": [
     "https://github.com/krillinai/KrillinAI",
-    "https://en.wikipedia.org/wiki/Machine_translation"
   ]
 }
 </script>
@@ -75,7 +74,7 @@ AI engines cite sources that demonstrate **authority and evidence**.  Factual st
 - Use **tables or bullet lists** for easy AI parsing.
 
 ### Example
-> KrillinAI’s adaptive translation model achieves **92% accuracy across 40+ languages** and reduces manual post-editing time by **70%**,  
+> KrillinAI’s adaptive translation model achieves **92% accuracy across 100+ languages** and reduces manual post-editing time by **90%**,  
 > based on internal performance benchmarks (2025).
 
 > 🧭 *Goal:* Make your data **verifiable and reusable** — every statistic can become a citation.
@@ -114,7 +113,6 @@ FAQs mirror the **prompt-response** structure AI engines use to generate answers
 Content optimization for GEO is about **clarity**, **structure**, and **credibility**.  AI engines need to *understand*, *verify*, and *quote* your content — not just crawl it.
 
 By focusing on:
-
 - **Semantic clarity**  
 - **Entity modeling**  
 - **Conversational design**  
