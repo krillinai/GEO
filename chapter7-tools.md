@@ -26,7 +26,7 @@ Traditional SEO uses keyword rankings.  GEO, by contrast, uses **AI visibility m
 
 ### Visibility Tracking Approaches
 - **Prompt Testing:** Ask ChatGPT, Claude, Perplexity, and Gemini the top 100 queries in your niche. Record whether your brand appears in their answers or citations.  
-- **AI Monitoring Platforms:** Tools like *Argo*, *Prompt Volume*, or *Writesonic GEO Tracker* automatically analyze brand mentions inside AI search responses.  
+- **AI Monitoring Platforms:** Tools like *Profound*, *Peec AI*, or *Writesonic GEO Tracker* automatically analyze brand mentions inside AI search responses.  
 - **Citation Frequency Index (CFI):** Calculate how often your brand is cited versus competitors.  
 - **Visibility Score:** Combine appearance rate, sentiment, and citation depth into one composite metric.
 
