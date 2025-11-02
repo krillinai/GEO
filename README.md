@@ -7,14 +7,14 @@
 
 This repository is a **comprehensive technical and strategic guide** to **Generative Engine Optimization (GEO)** — the new discipline of making your brand *visible, credible, and citable* in AI-generated answers.  
 
-Unlike traditional SEO, which focuses on ranking on Google, **GEO focuses on visibility inside AI systems** — such as ChatGPT, Claude, Gemini, and Perplexity — that now summarize the web instead of listing links.
+Unlike traditional SEO, which focuses on ranking on search engines like Google, **GEO focuses on visibility inside AI systems** — such as ChatGPT, Claude, Gemini, and Perplexity — that now summarize the web instead of listing links.
 
 This documentation blends **strategy, data, and implementation**:
 - 🧠 **Foundational concepts** — Understanding GEO and how AI search works  
 - 🧩 **Content frameworks** — Structuring information for AI comprehension and citation  
 - ⚙️ **Technical implementation** — Schema.org, structured data, sitemaps, and markup  
 - 🚀 **Strategic execution** — Authority building, multi-platform GEO, and prompt-based discovery  
-- 📊 **Measurement & analytics** — Visibility, citation share, sentiment, and ROI tracking  
+- 📊 **Measurement & analytics** — Visibility, menthion, citation share, sentiment  
 
 Each chapter is both **educational and actionable** — think of this as a *whitepaper for understanding* and a *playbook for execution*.  
 
