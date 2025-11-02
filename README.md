@@ -43,13 +43,14 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
  
 
-### ✍️ Content Creation
-- [Chapter 4: Content Optimization Fundamentals](#chapter-3-content-optimization-fundamentals)
-  - [Semantic Understanding](#31-semantic-understanding)
-  - [Entity-Based Content](#32-entity-based-content)
-  - [Conversational Tone](#33-conversational-tone)
-  - [Citation-Worthy Statistics](#34-citation-worthy-statistics)
-  - [FAQ and Q&A Sections](#35-faq-and-qa-sections)
+### ✍️ Content Creation & Optimization  
+- [Chapter 4: Building AI-Readable, Human-Engaging Content](#chapter-4-building-ai-readable-human-engaging-content)
+  - Understanding Semantic Meaning
+  - Modeling Entities for AI Comprehension
+  - Designing Conversational Content 
+  - Using Evidence and Data for Citations 
+  - Structuring FAQs and Knowledge Blocks
+
 
 ### ⚙️ Technical Implementation
 - [Chapter 5: Technical GEO Implementation](#chapter-4-technical-geo-implementation)
