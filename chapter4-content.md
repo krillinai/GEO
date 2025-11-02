@@ -5,7 +5,7 @@ Generative Engine Optimization (GEO) starts with **content** — not as keywords
 This chapter explores the core fundamentals that make content truly “AI-optimized.”
 
 
-## 4.1 Semantic Clarity: Writing for Meaning, Not Keywords
+## 4.1 Semantic Clarity
 
 AI engines interpret *meaning*, not just words.  They rely on **semantic relationships** — how concepts connect — rather than keyword frequency.
 
@@ -18,7 +18,7 @@ AI engines interpret *meaning*, not just words.  They rely on **semantic relatio
 > 🧭 *Goal:* Help AI understand what your content *means* — not just what it *says.*
 
 
-## 4.2 Entity Modeling: Making 'Entity' Recognizable to AI Systems
+## 4.2 Entity Modeling
 
 AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-based knowledge graphs**.  Entities are recognizable objects: a company, person, technology, or concept that the AI can “link” to other ideas.
 
@@ -47,7 +47,7 @@ AI systems like ChatGPT, Claude, Gemini, and Perplexity are built on **entity-ba
 </code></pre>
 
 
-## 4.3 Conversational Design: Writing in the Language of Prompts
+## 4.3 Conversational Design
 
 AI search engines model their answers after **natural conversation**.  Content that mirrors this tone is more likely to be surfaced in generative summaries or recommendations.
 
@@ -64,7 +64,7 @@ AI search engines model their answers after **natural conversation**.  Content t
 > 🧭 *Goal:* Write *with* the user, not *at* the user — just like AI engines do.
 
 
-## 4.4 Evidence-Driven Content: Data That Earns AI Citations
+## 4.4 Evidence-Driven Content
 
 AI engines cite sources that demonstrate **authority and evidence**.  Factual statements supported by verifiable data are far more likely to be quoted or referenced.
 
@@ -81,7 +81,7 @@ AI engines cite sources that demonstrate **authority and evidence**.  Factual st
 > 🧭 *Goal:* Make your data **verifiable and reusable** — every statistic can become a citation.
 
 
-## 4.5 Structured Q&A: Building AI-Readable Knowledge Blocks
+## 4.5 Structured Q&A
 
 FAQs mirror the **prompt-response** structure AI engines use to generate answers.  They are among the most powerful formats for GEO-ready content.
 
