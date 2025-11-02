@@ -236,7 +236,6 @@ AI engines prioritize:
 
 ## 2.4 The Life Cycle of an AI Answer
 
-```text
 User Prompt → Intent Detection → Retrieval → Filtering → Reasoning → Generation → Citation → Feedback Loop
 
 ---
