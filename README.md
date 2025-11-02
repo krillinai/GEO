@@ -791,13 +791,28 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 ## 8.2 Relevant Papers & Reports on GEO and AI-Search Visibility
 
 - [**GEO: Generative Engine Optimization**](https://arxiv.org/abs/2311.09735) – Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande. Nov 2023.  
-  Introduces GEO as the first formal framework for optimizing content visibility in generative engines (LLM-based search/answer systems). Presents GEO-bench, a large query benchmark, and reports up to ~40% visibility boost using GEO methods. 
+  Introduces GEO as the first formal framework for optimizing content visibility in generative engines (LLM-based search/answer systems). Presents GEO-bench, a large query benchmark, and reports up to ~40% visibility boost using GEO methods.
+
+- [**C-SEO Bench: Does Conversational SEO Work?**](https://arxiv.org/abs/2506.11097) – Zeyu Zhang, Yifan Duan, Qihang Zhang, Xuewei Wang, Zhihan Zhang, Ruifan Li, Yijiang Liu. June 2025.  
+  Explores the limitations of traditional SEO under LLM-driven search and introduces a new evaluation framework for Generative Engine Optimization (GEO). The study benchmarks content adaptability, factual grounding, and semantic retrieval relevance across major AI search engines, proposing measurable metrics for GEO performance.
+
+- [**Adversarial Search Engine Optimization for Large Language Models**](https://arxiv.org/abs/2406.18382) – Zihan Wang, Mingyang Li, Yiqing Xie, Yutong Wu, Bo Pang, Shuaiqiang Wang, Dawei Yin. June 2024.  
+  Explores how adversarially crafted content can manipulate LLM-based search engines. The paper presents an empirical framework for testing “adversarial SEO” strategies that alter model ranking behavior, shedding light on vulnerabilities and ethical boundaries of Generative Engine Optimization (GEO) in open-domain question answering.
 
 - [**Manipulating Large Language Models to Increase Product Visibility**](https://arxiv.org/abs/2404.07981) – Aounon Kumar, Himabindu Lakkaraju. Apr 2024.  
   Examines how adding strategic text sequences (STS) to product pages changes LLM recommendations; shows that manipulation can significantly increase a product’s likelihood of being top-recommended by LLMs.
 
+- [**Ranking Manipulation for Conversational Search Engines**](https://arxiv.org/abs/2406.03589) – Zhijie Lin, Yiqun Liu, Cheng Sun, Fan Zhang, Min Zhang. June 2024.  
+  Investigates how conversational search engines powered by LLMs can be influenced through ranking manipulation tactics. The paper introduces controlled prompt-based interventions that alter the presentation of sources in dialogue-driven search, revealing both risks and opportunities for Generative Engine Optimization (GEO) practices.
+
 - [**Role-Augmented Intent-Driven Generative Search Engine Optimization**](https://arxiv.org/abs/2508.11158) – Xiaolu Chen, Haojie Wu, Jie Bao, Zhen Chen, Yong Liao, Hu Huang. Aug 2025.  
   Proposes a structured method (G-SEO) tailored for generative search environments: models search intent via role/intent augmentation, extends GEO datasets, and presents fine-grained evaluation rubric (G-Eval 2.0).
+
+- [**ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLMs**](https://arxiv.org/abs/2408.12076) – Yuxuan Jiang, Wenxuan Wang, Yutao Zhu, Yixin Cao, Zhiyuan Liu, Tat-Seng Chua. August 2024.  
+  Introduces *ConflictBank*, a large-scale benchmark for studying how knowledge conflicts across data sources affect LLM responses. The paper provides insig
+
+- [**What Evidence Do Language Models Find Convincing?**](https://arxiv.org/abs/2402.11782) – Yichen Jiang, Yang Xiao, Zhijing Jin, Bernhard Schölkopf. February 2024.  
+  Examines how large language models assess and prioritize evidence when generating answers. Through controlled experiments, the study reveals which types of claims, citations, and factual grounding most influence model reasoning—providing an empirical foundation for building trust-oriented GEO strategies.
 
 - [**Yext Research: 86% of AI Citations Come from Brand-Controlled Sources**](https://investors.yext.com/news-events/press-releases/detail/376/yext-research-86-of-ai-citations-come-from-brand-managed) – Oct 2025.  
   Analysis of 6.8 million AI citations across ChatGPT, Gemini & Perplexity finds that 86% originate from brand-owned or brand-controlled domains, highlighting the importance of structured, authoritative content for GEO. 
