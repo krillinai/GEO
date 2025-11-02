@@ -221,28 +221,28 @@ User Prompt → Intent Detection → Retrieval → Filtering → Reasoning → G
 
 Before we discuss writing techniques and AI-friendly content structures,  it’s crucial to understand the **core definitions and metrics** that define success in Generative Engine Optimization (GEO).
 
-### 🧭 Prompt
+### Prompt
 A **prompt** is a user’s query or request to an AI system.  
 In GEO, prompts replace traditional keywords — they represent **how users naturally ask questions**.  
 > Example: “What are the best video translation and dubbing tools?”
 
-### 📚 Citation
+### Citation
 A **citation** is when an AI system explicitly references or links to your content inside a generated answer.  
 It is the clearest signal of **trust and authority** — showing the model relied on your material as part of its reasoning process.  
 
-### 💬 Mention
+### Mention
 A **mention** occurs when your brand or product is named within an AI-generated response,  even without a hyperlink.  
 Mentions build **brand familiarity** across conversational interfaces —  they’re visibility without attribution.
 
-### 🔗 Visibility
+### Visibility
 **Visibility** measures how often your brand appears in AI-generated answers related to your domain.  
 It is the GEO equivalent of SEO ranking, but instead of positions on a results page,  it tracks **presence in answers**.
 
-### 💡 Sentiment
+### Sentiment
 **Sentiment** reflects the tone and context of how your brand appears in AI-generated outputs —  positive, neutral, or negative.  
 Sentiment shapes how audiences perceive your credibility and authority through AI narratives.
 
-### 🧱 Trust Signal
+### Trust Signal
 A **trust signal** is any attribute that helps AI engines verify your reliability.  
 Typical examples include:  
 - Authorship and expert attribution  
@@ -252,7 +252,7 @@ Typical examples include:
 
 > 🧭 *Goal:* Strengthen every trust signal to improve the likelihood of being cited by AI systems.
 
-### 📊 Core GEO Metrics
+### Core GEO Metrics
 
 | **Metric** | **Description** | **Example / Application** |
 |:------------|:----------------|:---------------------------|
@@ -375,7 +375,7 @@ FAQs mirror the **prompt-response** structure AI engines use to generate answers
 </script>
 </code></pre>
 
-### 🔍 Summary
+### Summary
 
 Content optimization for GEO is about **clarity**, **structure**, and **credibility**.  AI engines need to *understand*, *verify*, and *quote* your content — not just crawl it.
 
@@ -485,7 +485,7 @@ AI visibility doesn’t live on a single engine. Users move fluidly between Chat
 
 > 🧭 *Goal:* Build *platform resilience* — wherever users ask, AI should know and cite you.
 
-### 🔍 Summary
+### Summary
 
 Expanding GEO influence means **moving beyond visibility** into **authority, precision, and presence**.  
 By structuring your content ecosystem, managing citations, and maintaining cross-platform consistency, you ensure that AI engines not only find you — they *trust* you.
@@ -803,7 +803,7 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 - [**AI Search Optimization: Data Finds Brand Mentions Improve Visibility**](https://www.searchenginejournal.com/ai-search-engines-often-cite-third-party-content-study-finds/540692/) – Search Engine Journal, Feb 2025.  
   Study shows how AI search engines source citations and how brand mentions/third-party content impact visibility in generative answers.
 
-## 📊 8.3 Market Reports & Benchmark Studies
+## 8.3 Market Reports & Benchmark Studies
 
 - [**GEO over SEO — Andreessen Horowitz (a16z)**](https://a16z.com/geo-over-seo/) – Sept 2024  
   A16z argues that **Generative Engine Optimization (GEO)** is overtaking traditional SEO as AI-driven interfaces become the dominant discovery layer; highlights **“citation share”** as a new core KPI.
