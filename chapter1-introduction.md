@@ -14,7 +14,7 @@ In this landscape, **visibility** is no longer about ranking first on search eng
 
 ## 1.1 What is GEO?
 
-**GEO** is the practice of making your brand **visible, credible, and citable** within AI-generated responses.  
+**GEO(Generative Engine Optimization)** is the practice of making your brand **visible, credible, and citable** within AI-generated responses.  
 It’s not about chasing keywords or backlinks anymore — it’s about ensuring that when tools like ChatGPT or Gemini respond to users, **your brand is part of the story**.
 
 GEO helps AI models **understand, verify, and confidently include** your content as a trustworthy source.
@@ -32,7 +32,7 @@ GEO helps AI models **understand, verify, and confidently include** your content
 
 ---
 
-## 1.3 GEO vs SEO
+## 1.3 GEO vs SEO(Search Engine Optimization)
 
 **GEO** focuses on earning **trust, citations, and visibility** within AI-generated answers,  while **SEO** focuses on ranking within traditional search results.
 
