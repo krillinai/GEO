@@ -25,6 +25,7 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - [What is GEO?](#what-is-geo)
   - [Why GEO Matters](#why-geo-matters)
   - [GEO vs SEO](#geo-vs-seo)
+  - [Who needs GEO](#who-needs-geo)
  
 ### 🧠 Inside the Mechanism of AI Search
 - [Chapter 2: How AI search works](#chapter-2-how-ai-search-works.md)
