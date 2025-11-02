@@ -48,12 +48,13 @@ Each chapter is both **educational and actionable** — think of this as a *whit
 - [4.4 Evidence-Driven Content](#44-evidence-driven-content)
 - [4.5 Structured Q&A](#45-structured-qa)
 
-### 🚀 [Chapter 5: Expanding GEO Influence and Brand Authority](#chapter-5-expanding-geo-influence-and-brand-authority)
-- [Building Semantic Topic Clusters for AI](#building-semantic-topic-clusters-for-ai)
-- [Establishing Brand Authority in Generative Search](#establishing-brand-authority-in-generative-search)
-- [Optimizing Citations and External Mentions](#optimizing-citations-and-external-mentions)
-- [Designing Long-Tail Conversational Prompts](#designing-long-tail-conversational-prompts)
-- [Executing a Multi-Platform GEO Strategy](#executing-a-multi-platform-geo-strategy)
+## 🚀 Chapter 5: Expanding GEO Influence and Brand Authority
+- [5.1 Building Semantic Topic Clusters for AI](#51-building-semantic-topic-clusters-for-ai)
+- [5.2 Establishing Brand Authority in Generative Search](#52-establishing-brand-authority-in-generative-search)
+- [5.3 Optimizing Citations and External Mentions](#53-optimizing-citations-and-external-mentions)
+- [5.4 Designing Long-Tail Conversational Prompts](#54-designing-long-tail-conversational-prompts)
+- [5.5 Executing a Multi-Platform GEO Strategy](#55-executing-a-multi-platform-geo-strategy)
+
 
 ### ⚙️ [Chapter 6: Technical GEO Implementation](#chapter-6-technical-geo-implementation)
 - [6.1 Schema.org Markup for AI](#61-schemaorg-markup-for-ai)
