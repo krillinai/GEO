@@ -51,22 +51,21 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - Using Evidence and Data for Citations 
   - Structuring FAQs and Knowledge Blocks
 
-
-### ⚙️ Technical Implementation  
-- [Chapter 5: Making Your Website Machine-Readable for AI Systems](#chapter-5-making-your-website-machine-readable-for-ai-systems)
-  - Implementing Schema.org for AI Discovery
-  - Building a Consistent Structured Data Layer
-  - Designing XML Sitemaps for Generative Crawlers
-  - Configuring Robots.txt for Responsible AI Access
-  - Optimizing Metadata for AI Comprehension
-
 ### 🚀 Strategic Growth  
-- [Chapter 6: Expanding GEO Influence and Brand Authority](#chapter-6-expanding-geo-influence-and-brand-authority)
+- [Chapter 5: Expanding GEO Influence and Brand Authority](#chapter5-expanding-geo-influence-and-brand-authority)
   - Building Semantic Topic Clusters for AI 
   - Establishing Brand Authority in Generative Search
   - Optimizing Citations and External Mentions  
   - Designing Long-Tail Conversational Prompts
   - Executing a Multi-Platform GEO Strategy
+
+### ⚙️ Technical Implementation  
+- [Chapter 6: Making Your Website Machine-Readable for AI Systems](#chapter6-making-your-website-machine-readable-for-ai-systems)
+  - Implementing Schema.org for AI Discovery
+  - Building a Consistent Structured Data Layer
+  - Designing XML Sitemaps for Generative Crawlers
+  - Configuring Robots.txt for Responsible AI Access
+  - Optimizing Metadata for AI Comprehension
 
 ### 📊 Analytics & Tools  
 - [Chapter 7: Measuring, Tracking, and Improving GEO Performance](#chapter-7-measuring-tracking-and-improving-geo-performance)
@@ -114,7 +113,7 @@ If you’re part of a **marketing, content, or data team** implementing GEO in p
   → Craft AI-readable, citation-worthy, and semantically structured content.  
 - Use **Chapters 5–6** as your **technical and strategic framework**  
   → Implement Schema.org, structured data, and cross-platform GEO campaigns.  
-- Use **Chapter 7** for **analytics and ROI measurement**  
+- Use **Chapter 7** for **analytics and measurement**  
   → Track AI visibility, sentiment, and citation frequency across generative platforms.  
 - Use **Chapter 8 (Appendix)** for templates, schema snippets, and benchmark references.  
 
