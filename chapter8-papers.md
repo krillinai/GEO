@@ -1,5 +1,7 @@
+# Chapter 8: Appendix — Resources, Research & Industry Insights
 
-## Relevant Papers & Reports on GEO and AI-Search Visibility
+
+## 8.1 Relevant Papers & Reports on GEO and AI-Search Visibility
 
 - [**GEO: Generative Engine Optimization**](https://arxiv.org/abs/2311.09735) – Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande. Nov 2023.  
   Introduces GEO as the first formal framework for optimizing content visibility in generative engines (LLM-based search/answer systems). Presents GEO-bench, a large query benchmark, and reports up to ~40% visibility boost using GEO methods. 
