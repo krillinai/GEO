@@ -6,10 +6,11 @@ People no longer sift through endless blue links. Instead, they turn to AI for *
 In this landscape, **visibility** is no longer about ranking first on Google — it’s about being **trusted, cited, and referenced** by the AI systems shaping what people see and believe.
 
 ---
-- [What is GEO?](#what-is-geo)
-- [Why GEO Matters](#why-geo-matters)
-- [GEO vs SEO](#geo-vs-seo)
-- [Who needs GEO](#who-needs-geo)
+- [1.1 What is GEO?](#11-what-is-geo)
+- [1.2 Why GEO Matters](#12-why-geo-matters)
+- [1.3 GEO vs SEO](#13-geo-vs-seo)
+- [1.4 Who Needs GEO](#14-who-needs-geo)
+
 ---
 
 ## 1.1 What is GEO?
