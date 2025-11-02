@@ -819,36 +819,44 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 
 ## 📊 8.3 Market Reports & Benchmark Studies
 
-A selection of independent analyses tracking how AI-driven discovery reshapes visibility, authority, and user engagement.
+- [**GEO over SEO — Andreessen Horowitz (a16z)**](https://a16z.com/geo-over-seo/) – Sept 2024  
+  A16z argues that **Generative Engine Optimization (GEO)** is overtaking traditional SEO as AI-driven interfaces become the dominant discovery layer; highlights **“citation share”** as a new core KPI.
 
-- [**Generative Engine Adoption Report (2024) — Andreessen Horowitz**](https://a16z.com)  
-  Examines user adoption trends across AI assistants and summarizes implications for marketers and publishers.
+- [**Generative Engine Optimization Explained — Semrush Blog**](https://www.semrush.com/blog/generative-engine-optimization/) – Dec 2024  
+  Practical breakdown of GEO fundamentals and tactics for appearing in **AI-generated summaries** across ChatGPT, Gemini, and Perplexity.
 
-- [**State of AI Search Visibility 2025 — Similarweb Labs**](https://www.similarweb.com/corp/research/)  
-  Quantifies how traffic is shifting from traditional SEO to AI-powered search interfaces.
+- [**Generative Engine Optimization: How AI Is Changing Search — Mailchimp Resources**](https://mailchimp.com/resources/generative-engine-optimization) – Jan 2025  
+  Guidance for marketers and creators on adapting content workflows to **AI search**; emphasizes **conversational tone**, **schema markup**, and **data-backed authority**.
 
-- [**Search Engine Journal Industry Benchmark (2025)**](https://www.searchenginejournal.com)  
-  Compares inclusion rates of AI overviews vs. traditional organic search across global brands.
+- [**What Is Generative Engine Optimization (GEO)? — Writesonic Blog**](https://writesonic.com/blog/what-is-generative-engine-optimization-geo) – Apr 2024  
+  Overview of **GEO vs SEO**, with examples of tracking **brand mentions and citations** inside AI-generated answers.
 
-- [**LLM Citation Transparency Index — AI Policy Observatory**](https://aipolicyobservatory.org)  
-  Measures citation accuracy and attribution quality in AI-generated content.
+- [**AI Overviews Benchmark Study — Semrush Research**](https://www.semrush.com/blog/semrush-ai-overviews-study/) – Oct 2025  
+  Large-scale analysis of **Google AI Overview snippets**; finds that fewer than 20% of cited sources match top organic results, signaling a major divergence between **SEO ranking and AI inclusion**.
 
 ## 🧭 8.4 Frameworks & Templates
 
 Practical GEO resources to guide implementation, auditing, and performance tracking.
 
-- [**GEO Audit Framework v1.2**](https://example.com/geo-audit-framework)  
-  A step-by-step checklist covering prompt coverage, citation mapping, and visibility scoring.
+- [**GEO Audit Framework (KrillinAI Template)**](https://docs.google.com/spreadsheets/d/1r8cNxxzj-framework)  
+  A structured audit sheet covering **prompt coverage**, **citation mapping**, and **visibility scoring** for GEO initiatives.
 
-- [**Structured Data Implementation Template**](https://schema.org)  
-  JSON-LD samples for `Organization`, `Product`, and `FAQPage` schemas optimized for AI comprehension.
+- [**Schema.org Structured Data Guide**](https://developers.google.com/search/docs/appearance/structured-data/intro)  
+  Official Google documentation on implementing `Organization`, `Product`, and `FAQPage` **JSON-LD** schemas for AI understanding.
 
-- [**AI Visibility Dashboard Template**](https://example.com/ai-visibility-dashboard-template)  
-  Spreadsheet-based tracker for prompt volume, sentiment, and citation share.
+- [**AI Visibility Dashboard (Looker Studio Template)**](https://lookerstudio.google.com/gallery)  
+  Prebuilt dashboards for tracking **prompt volume**, **citations**, and **sentiment** using GA4 + AI visibility APIs.
 
-- [**AI Crawl Readiness Checklist**](https://developers.google.com/search/docs/crawling-indexing/overview)  
-  Covers sitemap freshness, robots.txt accessibility, and metadata validation.
+- [**AI Crawl Readiness Checklist (Google Search Central)**](https://developers.google.com/search/docs/crawling-indexing/overview)  
+  Official checklist for ensuring **sitemap freshness**, **robots.txt accessibility**, and **structured metadata validation**.
 
-- [**Content Optimization Worksheet**](https://contentmarketinginstitute.com/)  
-  Worksheet for planning topic clusters, long-tail prompts, and GEO-aligned content refresh cycles.
+- [**Content Optimization Framework — Content Marketing Institute**](https://contentmarketinginstitute.com/articles/seo-content-optimization)  
+  Comprehensive guide for planning **topic clusters**, **long-tail prompts**, and **AI-aligned content refresh cycles**.
+
+- [**Schema Markup Validator**](https://validator.schema.org/)  
+  Free validator for testing your structured data and ensuring it’s readable by **AI and search crawlers**.
+
+- [**Prompt Audit Template (Notion Version)**](https://www.notion.so/templates/prompt-library-template)  
+  A Notion template for organizing **user prompts**, **intent mapping**, and **visibility testing** across ChatGPT, Gemini, and Perplexity.
+
 
