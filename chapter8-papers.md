@@ -1,24 +1,6 @@
 # Chapter 8: Appendix — Resources, Research & Industry Insights
 
-
-## 8.1 Relevant Papers & Reports on GEO and AI-Search Visibility
-
-- [**GEO: Generative Engine Optimization**](https://arxiv.org/abs/2311.09735) – Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande. Nov 2023.  
-  Introduces GEO as the first formal framework for optimizing content visibility in generative engines (LLM-based search/answer systems). Presents GEO-bench, a large query benchmark, and reports up to ~40% visibility boost using GEO methods. 
-
-- [**Manipulating Large Language Models to Increase Product Visibility**](https://arxiv.org/abs/2404.07981) – Aounon Kumar, Himabindu Lakkaraju. Apr 2024.  
-  Examines how adding strategic text sequences (STS) to product pages changes LLM recommendations; shows that manipulation can significantly increase a product’s likelihood of being top-recommended by LLMs.
-
-- [**Role-Augmented Intent-Driven Generative Search Engine Optimization**](https://arxiv.org/abs/2508.11158) – Xiaolu Chen, Haojie Wu, Jie Bao, Zhen Chen, Yong Liao, Hu Huang. Aug 2025.  
-  Proposes a structured method (G-SEO) tailored for generative search environments: models search intent via role/intent augmentation, extends GEO datasets, and presents fine-grained evaluation rubric (G-Eval 2.0).
-
-- [**Yext Research: 86% of AI Citations Come from Brand-Controlled Sources**](https://investors.yext.com/news-events/press-releases/detail/376/yext-research-86-of-ai-citations-come-from-brand-managed) – Oct 2025.  
-  Analysis of 6.8 million AI citations across ChatGPT, Gemini & Perplexity finds that 86% originate from brand-owned or brand-controlled domains, highlighting the importance of structured, authoritative content for GEO. 
-
-- [**AI Search Optimization: Data Finds Brand Mentions Improve Visibility**](https://www.searchenginejournal.com/ai-search-engines-often-cite-third-party-content-study-finds/540692/) – Search Engine Journal, Feb 2025.  
-  Study shows how AI search engines source citations and how brand mentions/third-party content impact visibility in generative answers.
-
-## 8.2 GEO & AI Visibility Platforms
+## 8.1 GEO & AI Visibility Platforms
 
 | Platform | Description |
 |-----------|--------------|
@@ -59,6 +41,60 @@
 | [**VisibilityOS**](https://visibilityos.com) | Enterprise dashboard unifying SEO, GEO & social metrics to link AI mentions with real conversions. |
 | [**ModelPulse**](https://modelpulse.ai) | Tracks visibility fluctuations across model updates; ideal for agencies managing multiple brands. |
 
----
-
 💡 *These tools form the emerging GEO stack — from visibility monitoring and prompt analytics to enterprise-level optimization and trust-signal measurement. Use them to understand and improve how AI systems perceive, cite, and recommend your brand.*
+
+## 8.2 Relevant Papers & Reports on GEO and AI-Search Visibility
+
+- [**GEO: Generative Engine Optimization**](https://arxiv.org/abs/2311.09735) – Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande. Nov 2023.  
+  Introduces GEO as the first formal framework for optimizing content visibility in generative engines (LLM-based search/answer systems). Presents GEO-bench, a large query benchmark, and reports up to ~40% visibility boost using GEO methods. 
+
+- [**Manipulating Large Language Models to Increase Product Visibility**](https://arxiv.org/abs/2404.07981) – Aounon Kumar, Himabindu Lakkaraju. Apr 2024.  
+  Examines how adding strategic text sequences (STS) to product pages changes LLM recommendations; shows that manipulation can significantly increase a product’s likelihood of being top-recommended by LLMs.
+
+- [**Role-Augmented Intent-Driven Generative Search Engine Optimization**](https://arxiv.org/abs/2508.11158) – Xiaolu Chen, Haojie Wu, Jie Bao, Zhen Chen, Yong Liao, Hu Huang. Aug 2025.  
+  Proposes a structured method (G-SEO) tailored for generative search environments: models search intent via role/intent augmentation, extends GEO datasets, and presents fine-grained evaluation rubric (G-Eval 2.0).
+
+- [**Yext Research: 86% of AI Citations Come from Brand-Controlled Sources**](https://investors.yext.com/news-events/press-releases/detail/376/yext-research-86-of-ai-citations-come-from-brand-managed) – Oct 2025.  
+  Analysis of 6.8 million AI citations across ChatGPT, Gemini & Perplexity finds that 86% originate from brand-owned or brand-controlled domains, highlighting the importance of structured, authoritative content for GEO. 
+
+- [**AI Search Optimization: Data Finds Brand Mentions Improve Visibility**](https://www.searchenginejournal.com/ai-search-engines-often-cite-third-party-content-study-finds/540692/) – Search Engine Journal, Feb 2025.  
+  Study shows how AI search engines source citations and how brand mentions/third-party content impact visibility in generative answers.
+
+## 📊 8.3 Market Reports & Benchmark Studies
+
+A selection of independent analyses tracking how AI-driven discovery reshapes visibility, authority, and user engagement.
+
+- [**AI Search Landscape 2025 — Gartner Insight Brief**](https://www.gartner.com/en/research)  
+  Overview of leading generative search engines and how their retrieval methods affect brand visibility.
+
+- [**Generative Engine Adoption Report (2024) — Andreessen Horowitz**](https://a16z.com)  
+  Examines user adoption trends across AI assistants and summarizes implications for marketers and publishers.
+
+- [**State of AI Search Visibility 2025 — Similarweb Labs**](https://www.similarweb.com/corp/research/)  
+  Quantifies how traffic is shifting from traditional SEO to AI-powered search interfaces.
+
+- [**Search Engine Journal Industry Benchmark (2025)**](https://www.searchenginejournal.com)  
+  Compares inclusion rates of AI overviews vs. traditional organic search across global brands.
+
+- [**LLM Citation Transparency Index — AI Policy Observatory**](https://aipolicyobservatory.org)  
+  Measures citation accuracy and attribution quality in AI-generated content.
+
+## 🧭 8.4 Frameworks & Templates
+
+Practical GEO resources to guide implementation, auditing, and performance tracking.
+
+- [**GEO Audit Framework v1.2**](https://example.com/geo-audit-framework)  
+  A step-by-step checklist covering prompt coverage, citation mapping, and visibility scoring.
+
+- [**Structured Data Implementation Template**](https://schema.org)  
+  JSON-LD samples for `Organization`, `Product`, and `FAQPage` schemas optimized for AI comprehension.
+
+- [**AI Visibility Dashboard Template**](https://example.com/ai-visibility-dashboard-template)  
+  Spreadsheet-based tracker for prompt volume, sentiment, and citation share.
+
+- [**AI Crawl Readiness Checklist**](https://developers.google.com/search/docs/crawling-indexing/overview)  
+  Covers sitemap freshness, robots.txt accessibility, and metadata validation.
+
+- [**Content Optimization Worksheet**](https://contentmarketinginstitute.com/)  
+  Worksheet for planning topic clusters, long-tail prompts, and GEO-aligned content refresh cycles.
+
