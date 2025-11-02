@@ -1,4 +1,4 @@
-# Chapter 6: Advanced GEO Strategies
+# Chapter 5: Advanced GEO Strategies
 
 Once your technical and content foundations are solid, it’s time to move toward **advanced GEO strategies** — the techniques that help your brand not only appear in AI answers, but dominate across platforms.
 
@@ -8,7 +8,7 @@ In this chapter, we explore the higher-level strategies that transform KrillinAI
 
 ---
 
-## 6.1 Building Semantic Topic Clusters for AI
+## 5.1 Building Semantic Topic Clusters for AI
 
 AI models don’t see pages — they see **topics and relationships**.  
 By organizing your content into **semantic clusters**, you help generative engines understand your domain expertise, recognize context, and associate related ideas more effectively.
