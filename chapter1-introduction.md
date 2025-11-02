@@ -12,7 +12,7 @@ In this landscape, **visibility** is no longer about ranking first on Google —
 - [Who needs GEO](#who-needs-geo)
 ---
 
-## What is GEO?
+## 1.1 What is GEO?
 
 **GEO** is the practice of making your brand **visible, credible, and citable** within AI-generated responses.  
 It’s not about chasing keywords or backlinks anymore — it’s about ensuring that when tools like ChatGPT or Bard respond to users, **your brand is part of the story**.
@@ -21,7 +21,7 @@ GEO helps AI models **understand, verify, and confidently include** your content
 
 ---
 
-## Why GEO Matters
+## 1.2 Why GEO Matters
 
 - **Traditional rankings** no longer guarantee visibility.  
 - **AI engines summarize**, not list — they select only a few trusted sources.  
@@ -32,7 +32,7 @@ GEO helps AI models **understand, verify, and confidently include** your content
 
 ---
 
-## GEO vs SEO
+## 1.3 GEO vs SEO
 
 **GEO** focuses on earning **trust, citations, and visibility** within AI-generated answers,  while **SEO** focuses on ranking within traditional search results.
 
@@ -52,7 +52,7 @@ In the age of AI-powered discovery, GEO defines **whether your brand is part of 
 
 ---
 
-## Who Needs GEO
+## 1.4 Who Needs GEO
 
 GEO isn’t just for tech giants or AI startups — it’s for **anyone whose visibility, trust, or revenue depends on being found online**.  
 As AI engines become the new discovery layer, every brand, creator, and organization needs to understand how to appear — and be trusted — inside AI-generated answers.
