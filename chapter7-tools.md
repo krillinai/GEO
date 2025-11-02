@@ -47,18 +47,18 @@ Traditional SEO uses keyword rankings.  GEO, by contrast, uses **AI visibility m
 Citations are the new backlinks — and tracking them reveals how generative models perceive your brand.
 
 ### Citation Monitoring Workflow
-1. **Collect Prompts:** Define 50–100 high-value prompts your customers might ask AI (e.g., “best industrial gas sensors,” “how to detect methane leaks”).  
+1. **Collect Prompts:** Define 50–100 high-value prompts your customers might ask AI  (e.g., “best AI video translation tools,” “how to automatically translate YouTube videos,” “ways to localize English videos into Spanish,” “AI subtitle generation workflow”).
 2. **Generate Responses:** Query multiple AI engines monthly using these prompts.  
 3. **Extract Mentions:** Identify where your domain or brand appears — as a **source**, **citation**, or **text mention**.  
 4. **Score Citations:** Evaluate quality:
    - *Direct Citation* (with link) → +2  
    - *Brand Mention* (without link) → +1  
    - *Negative or unrelated mention* → −1  
-5. **Track Trends:** Chart month-over-month visibility and benchmark against competitors.
+5. **Track Trends:** Chart month/week-over-month/week visibility and benchmark against competitors.
 
 ### Recommended Tools
 - **Perplexity AI API Logs** → for citation lists  
-- **Argo GEO Tracker** → for multi-engine visibility reporting  
+- **Profound/Peec AI** → for multi-engine visibility reporting  
 - **Prompt Volume** → for prompt-level trend analysis  
 - **Talkwalker / Brandwatch** → for sentiment and mention monitoring across web + AI summaries
 
@@ -79,12 +79,3 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 | **Cross-Engine Consistency** | Alignment of mentions across multiple AI engines | High consistency = stronger trust signal |
 
 > 🧭 *Goal:* Build a data-driven GEO scorecard that connects AI visibility with business outcomes.
-
-
-## 7.5 ROI Calculation
-
-GEO’s ROI (Return on Intelligence) measures **how much AI visibility contributes to measurable brand growth** — even without traditional clicks.
-
-### GEO ROI Formula
-```text
-GEO ROI = (AI-Assisted Conversions + Brand Mentions Value + Citation Traffic) / GEO Investment
