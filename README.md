@@ -120,7 +120,7 @@ If you’re part of a **marketing, content, or data team** implementing GEO in p
 > 🎯 *Goal:* Equip your team with the exact frameworks, metrics, and examples  
 > to **measure and scale GEO** — ensuring your brand is discoverable inside AI-powered answers.
 
-
+---
 
 # Chapter 1: Introduction to GEO
 
@@ -196,4 +196,113 @@ For emerging companies, GEO can level the playing field.  You may not outspend i
 > GEO is not a niche marketing tactic — it’s the new foundation of digital discoverability.  
 > From enterprises to individual creators, those who learn to **speak the language of AI engines** will own the next decade of visibility.
 
+---
+
+# Chapter 2: How AI Search Works
+
+To master Generative Engine Optimization (GEO), we must first understand **how AI search engines think**.  
+Unlike traditional search engines that index and rank billions of pages, AI systems such as ChatGPT, Gemini, Claude, and Perplexity **generate** answers — synthesizing knowledge instead of listing it.
+
+---
+
+## 2.1 From Retrieval to Generation
+
+Traditional search = *Retrieve and Rank.*  
+AI search = *Retrieve, Reason, and Respond.*
+
+1. **Retrieval** – The model gathers relevant web documents, databases, or pretrained knowledge.  
+2. **Reasoning** – It interprets context, weighs credibility, and predicts the most likely useful answer.  
+3. **Generation** – It writes a natural-language response that summarizes multiple sources.  
+
+> 🧭 *Key insight:* Visibility in AI search depends on whether your content is retrievable, interpretable, and credible enough to be reused during generation.
+
+---
+
+## 2.2 Core Components of AI Search
+
+| Layer | Function | GEO Relevance |
+|:------|:----------|:--------------|
+| **Data Index / Memory** | Long-term training data, web snapshots, curated corpora | Ensuring your content exists in trusted, crawlable datasets |
+| **Retrieval System** | Fetches fresh information via APIs or live search | Use structured metadata & open access for discovery |
+| **Ranking / Scoring** | Weighs source reliability, recency, and alignment | Build factual authority and current data |
+| **Generative Model** | Synthesizes the final answer text | Clear, well-structured language improves inclusion |
+| **Citation Engine** | Selects and formats attributions | Provide verifiable facts and transparent authorship |
+
+---
+
+## 2.3 How AI Evaluates Sources
+
+AI engines prioritize:
+
+- **Relevance** – Does the content directly answer the query?  
+- **Authority** – Is it from an expert or recognized entity?  
+- **Clarity** – Can meaning be extracted without ambiguity?  
+- **Consistency** – Does it align with other trusted data?  
+- **Freshness** – How recently was it updated?  
+
+> 🧭 *Goal:* Align your content with these dimensions so models can identify it as a high-trust input.
+
+---
+
+## 2.4 The Life Cycle of an AI Answer
+
+```text
+User Prompt → Intent Detection → Retrieval → Filtering → Reasoning → Generation → Citation → Feedback Loop
+
+---
+
+# Chapter 3: Key Definitions and Metrics
+
+Before we discuss writing techniques and AI-friendly content structures,  it’s crucial to understand the **core definitions and metrics** that define success in Generative Engine Optimization (GEO).
+
+### 🧭 Prompt
+A **prompt** is a user’s query or request to an AI system.  
+In GEO, prompts replace traditional keywords — they represent **how users naturally ask questions**.  
+> Example: “What are the best video translation and dubbing tools?”
+
+### 📚 Citation
+A **citation** is when an AI system explicitly references or links to your content inside a generated answer.  
+It is the clearest signal of **trust and authority** — showing the model relied on your material as part of its reasoning process.  
+
+### 💬 Mention
+A **mention** occurs when your brand or product is named within an AI-generated response,  even without a hyperlink.  
+Mentions build **brand familiarity** across conversational interfaces —  they’re visibility without attribution.
+
+### 🔗 Visibility
+**Visibility** measures how often your brand appears in AI-generated answers related to your domain.  
+It is the GEO equivalent of SEO ranking, but instead of positions on a results page,  it tracks **presence in answers**.
+
+### 💡 Sentiment
+**Sentiment** reflects the tone and context of how your brand appears in AI-generated outputs —  positive, neutral, or negative.  
+Sentiment shapes how audiences perceive your credibility and authority through AI narratives.
+
+### 🧱 Trust Signal
+A **trust signal** is any attribute that helps AI engines verify your reliability.  
+Typical examples include:  
+- Authorship and expert attribution  
+- Structured data (Schema.org, JSON-LD)  
+- Verifiable references and statistics  
+- Consistent brand identity across domains
+
+> 🧭 *Goal:* Strengthen every trust signal to improve the likelihood of being cited by AI systems.
+
+---
+
+### 📊 Core GEO Metrics
+
+| **Metric** | **Description** | **Example / Application** |
+|:------------|:----------------|:---------------------------|
+| **Prompt Coverage** | % of key AI prompts in which your brand or content appears | “KrillinAI” appears in 47% of AI video translation–related queries |
+| **Citation Share** | Share of total citations referencing your content vs. competitors | 3 of 10 Perplexity answers cite your site |
+| **Visibility Score** | Composite index of mentions + citations + sentiment | 72& (↑ from 65& last quarter) |
+| **Authority Weight** | AI trust score derived from structured data and cross-source consistency | High = model more likely to reuse your content |
+| **Sentiment Index** | Weighted measure of positive vs. negative references | +0.42 indicates generally favorable mentions |
+| **Trust Density** | Average number of verifiable data points per 1,000 words of content | 3.8 trust elements / 1k words |
+| **Freshness Ratio** | % of AI citations referencing content updated within 12 months | 68% freshness = strong recency signal |
+
+> 💬 *In short:*  
+> GEO performance depends on two forces — **language fit (definitions)** and **data proof (metrics)**.  
+> Understand both, and you control how AI engines see and cite your brand.
+
+---
 
