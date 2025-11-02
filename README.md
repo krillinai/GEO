@@ -554,7 +554,6 @@ Meta tags are no longer just SEO tools — they now communicate **intent, author
 - Use **canonical tags** to consolidate duplicate or similar pages, ensuring a single authoritative version.  
 
 ### Example
-```html
 <meta name="description" content="Discover how KrillinAI's AI-powered video translation technology helps creators and enterprises reach global audiences with instant, accurate localization.">
 <meta property="og:title" content="AI Video Translation & Localization | KrillinAI">
 <meta property="og:type" content="article">
