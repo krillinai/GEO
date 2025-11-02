@@ -73,45 +73,43 @@ Each chapter is both **educational and actionable** — think of this as a *whit
 - [8.1 GEO & AI Visibility Platforms](#81-geo--ai-visibility-platforms)
 - [8.2 Relevant Papers & Reports](#82-relevant-papers--reports-on-geo-and-ai-search-visibility)
 - [8.3 Market Reports & Benchmark Studies](#-83-market-reports--benchmark-studies)
-- [8.4 Frameworks & Templates](#-84-frameworks--templates)
 
 
 ---
-
 ## 🧭 How to Use This Documentation
 
-### 🧭 For Readers
+This documentation is designed for two types of readers:  those **learning what GEO is**, and those **building GEO-ready systems and strategies**.  Each section combines theory, examples, and practical implementation steps.
 
-If you are new to GEO or exploring how AI reshapes search visibility:
+---
 
-1. **Start with [Chapter 1: Introduction to GEO](./chapter1-introduction.md)**  
-   → Learn what GEO is, and why traditional SEO is no longer enough.  
-2. **Continue to [Chapter 2: How AI Search Works](./chapter2-ai-search-mechanism.md)**  
-   → Understand how ChatGPT, Gemini, Claude, and Perplexity interpret and generate answers.  
-3. **Move into [Chapter 3: Key Definitions & Metrics](./chapter3-definitions.md)**  
-   → Get familiar with the essential GEO metrics like citations, mentions, and trust signals.  
-4. **Explore [Chapter 4: Content Optimization Fundamentals](./chapter4-content.md)**  
-   → Learn how to write content that AI can understand, verify, and quote.  
-5. When ready, dive into **[Chapter 5–7]** for implementation, advanced strategies, and analytics.  
+### 📘 For Readers & Learners
+If you’re new to **Generative Engine Optimization (GEO)** and want to understand how AI systems like ChatGPT, Gemini, Claude, or Perplexity are reshaping search visibility:
+1. **Start with [Chapter 1: Introduction to GEO](#chapter-1-introduction-to-geo)**  
+   → Understand how AI search differs from traditional SEO and why *citations* have replaced *rankings*.  
+2. **Move on to [Chapter 2: How AI Search Works](#chapter-2-how-ai-search-works)**  
+   → Learn how AI systems retrieve, reason, and generate answers — the foundation for GEO visibility.  
+3. **Study [Chapter 3: Key Definitions and Metrics](#chapter-3-key-definitions-and-metrics)**  
+   → Familiarize yourself with GEO’s new vocabulary: *prompts, citations, visibility score,* and *trust signals*.  
+4. **Dive into [Chapter 4: Content Optimization](#chapter-4-content-optimization)**  
+   → Discover how to write and structure content that AI can both understand and quote.  
+5. **Explore [Chapters 5–7](#chapter-5-expanding-geo-influence-and-brand-authority)**  
+   → Learn advanced strategies, technical implementation, and analytics for long-term GEO growth.  
+6. **Finally, see [Chapter 8: Appendix — Resources, Research & Industry Insights](#chapter-8-appendix--resources-research--industry-insights)**  
+   → Access tools, frameworks, datasets, and research papers to continue your GEO journey.  
+> 🪶 *Goal:* By following this order, you’ll build a complete understanding of how **AI-driven visibility** works — from content design to technical execution.
 
-> 🪶 *Goal:* Help you clearly see how the new “AI search ecosystem” works —  
-> and how to position your content and brand within it.
-
-
-## 🧰 For Practitioners and Teams
-
-If you’re part of a **marketing, content, or data team** implementing GEO in practice:
-
-- Use **Chapters 3–4** as your **on-page and content optimization checklist**  
-  → Craft AI-readable, citation-worthy, and semantically structured content.  
-- Use **Chapters 5–6** as your **technical and strategic framework**  
-  → Implement Schema.org, structured data, and cross-platform GEO campaigns.  
-- Use **Chapter 7** for **analytics and measurement**  
-  → Track AI visibility, sentiment, and citation frequency across generative platforms.  
-- Use **Chapter 8 (Appendix)** for templates, schema snippets, and benchmark references.  
-
-> 🎯 *Goal:* Equip your team with the exact frameworks, metrics, and examples  
-> to **measure and scale GEO** — ensuring your brand is discoverable inside AI-powered answers.
+### 🧰 For Practitioners & Teams
+If you’re part of a **marketing, growth, or data team** implementing GEO in real projects,  this documentation doubles as a **practical playbook** and **technical reference**.
+- **Use [Chapters 3–4](#chapter-3-key-definitions-and-metrics)** as your **content optimization checklist**  
+  → Ensure every page is semantically clear, entity-linked, and ready for AI comprehension.  
+- **Use [Chapters 5–6](#chapter-5-expanding-geo-influence-and-brand-authority)** as your **strategy and implementation guide**  
+  → Plan topic clusters, authority-building workflows, and Schema.org-based technical foundations.  
+- **Use [Chapter 7](#chapter-7-geo-tools-and-analytics)** as your **measurement system**  
+  → Track visibility, sentiment, and citation metrics across ChatGPT, Perplexity, and Google AI Overviews.  
+- **Use [Chapter 8](#chapter-8-appendix--resources-research--industry-insights)** as your **toolkit and research library**  
+  → Find GEO benchmarking platforms, research papers, dashboards, and validation templates.  
+> 🎯 *Goal:* Equip your organization with a **data-driven GEO workflow** —  
+> turning AI visibility from a mystery into a measurable, repeatable growth engine.
 
 ---
 
@@ -833,30 +831,4 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 
 - [**AI Overviews Benchmark Study — Semrush Research**](https://www.semrush.com/blog/semrush-ai-overviews-study/) – Oct 2025  
   Large-scale analysis of **Google AI Overview snippets**; finds that fewer than 20% of cited sources match top organic results, signaling a major divergence between **SEO ranking and AI inclusion**.
-
-## 🧭 8.4 Frameworks & Templates
-
-Practical GEO resources to guide implementation, auditing, and performance tracking.
-
-- [**GEO Audit Framework (KrillinAI Template)**](https://docs.google.com/spreadsheets/d/1r8cNxxzj-framework)  
-  A structured audit sheet covering **prompt coverage**, **citation mapping**, and **visibility scoring** for GEO initiatives.
-
-- [**Schema.org Structured Data Guide**](https://developers.google.com/search/docs/appearance/structured-data/intro)  
-  Official Google documentation on implementing `Organization`, `Product`, and `FAQPage` **JSON-LD** schemas for AI understanding.
-
-- [**AI Visibility Dashboard (Looker Studio Template)**](https://lookerstudio.google.com/gallery)  
-  Prebuilt dashboards for tracking **prompt volume**, **citations**, and **sentiment** using GA4 + AI visibility APIs.
-
-- [**AI Crawl Readiness Checklist (Google Search Central)**](https://developers.google.com/search/docs/crawling-indexing/overview)  
-  Official checklist for ensuring **sitemap freshness**, **robots.txt accessibility**, and **structured metadata validation**.
-
-- [**Content Optimization Framework — Content Marketing Institute**](https://contentmarketinginstitute.com/articles/seo-content-optimization)  
-  Comprehensive guide for planning **topic clusters**, **long-tail prompts**, and **AI-aligned content refresh cycles**.
-
-- [**Schema Markup Validator**](https://validator.schema.org/)  
-  Free validator for testing your structured data and ensuring it’s readable by **AI and search crawlers**.
-
-- [**Prompt Audit Template (Notion Version)**](https://www.notion.so/templates/prompt-library-template)  
-  A Notion template for organizing **user prompts**, **intent mapping**, and **visibility testing** across ChatGPT, Gemini, and Perplexity.
-
 
