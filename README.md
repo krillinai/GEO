@@ -74,13 +74,11 @@ Each chapter is both **educational and actionable** — think of this as a *whit
 - [8.2 Relevant Papers & Reports](#82-relevant-papers--reports-on-geo-and-ai-search-visibility)
 - [8.3 Market Reports & Benchmark Studies](#-83-market-reports--benchmark-studies)
 
-
 ---
+
 ## 🧭 How to Use This Documentation
 
 This documentation is designed for two types of readers:  those **learning what GEO is**, and those **building GEO-ready systems and strategies**.  Each section combines theory, examples, and practical implementation steps.
-
----
 
 ### 📘 For Readers & Learners
 If you’re new to **Generative Engine Optimization (GEO)** and want to understand how AI systems like ChatGPT, Gemini, Claude, or Perplexity are reshaping search visibility:
@@ -118,14 +116,6 @@ If you’re part of a **marketing, growth, or data team** implementing GEO in re
 We’ve entered a **new era of search** — one powered by **AI engines** such as ChatGPT, Google AI Overviews, Perplexity, Claude, DeepSeek etc. People no longer sift through endless blue links. Instead, they turn to AI for **immediate, context-rich answers** that summarize the web.
 
 In this landscape, **visibility** is no longer about ranking first on search engines like Google, Baidu — it’s about being **trusted, cited, and referenced** by the AI systems shaping what people see and believe.
-
----
-- [1.1 What is GEO?](#11-what-is-geo)
-- [1.2 Why GEO Matters](#12-why-geo-matters)
-- [1.3 GEO vs SEO](#13-geo-vs-seo)
-- [1.4 Who Needs GEO](#14-who-needs-geo)
-
----
 
 ## 1.1 What is GEO?
 
@@ -406,7 +396,6 @@ This chapter explores how to turn visibility into **authority**, citations into 
 Advanced GEO is about creating an **ecosystem of reinforcement**:  
 structured content → consistent mentions → authoritative clusters → cross-platform visibility.  In KrillinAI’s case, that means ensuring that when users ask, “What’s the best AI video translation tool?” — the model doesn’t just mention KrillinAI; it explains *why* it leads.
 
-
 ## 5.1 Building Semantic Topic Clusters for AI
 
 AI engines don’t index “pages.” They model **conceptual clusters** — webs of meaning around core ideas.  To establish relevance and depth, your brand must map its expertise into clear topic ecosystems.
@@ -511,7 +500,6 @@ By structuring your content ecosystem, managing citations, and maintaining cross
 > 🚀 *GEO maturity is when your brand stops chasing mentions — and becomes the reference itself.*
 
 ---
-
 
 # Chapter 6: Technical GEO Implementation
 
