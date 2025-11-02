@@ -21,7 +21,7 @@ Each chapter is both **educational and actionable** — think of this as a *whit
 ## 📑 Table of Contents
 
 ### 🪶 About GEO
-- [Chapter 1: Introduction to GEO](#chapter-1-introduction-to-geo.md)
+- [Chapter 1: Introduction to GEO](#chapter1-introduction.md)
   - [What is GEO?](#what-is-geo)
   - [Why GEO Matters](#why-geo-matters)
   - [GEO vs SEO](#geo-vs-seo)
