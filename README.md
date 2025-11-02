@@ -52,36 +52,37 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - Structuring FAQs and Knowledge Blocks
 
 
-### ⚙️ Technical Implementation
-- [Chapter 5: Technical GEO Implementation](#chapter-4-technical-geo-implementation)
-  - [Schema.org Markup for AI](#41-schemaorg-markup-for-ai)
-  - [Structured Data Best Practices](#42-structured-data-best-practices)
-  - [XML Sitemaps for AI Crawlers](#43-xml-sitemaps-for-ai-crawlers)
-  - [Robots.txt Configuration](#44-robotstxt-configuration)
-  - [Meta Tags for AI Platforms](#45-meta-tags-for-ai-platforms)
+### ⚙️ Technical Implementation  
+- [Chapter 5: Making Your Website Machine-Readable for AI Systems](#chapter-5-making-your-website-machine-readable-for-ai-systems)
+  - Implementing Schema.org for AI Discovery
+  - Building a Consistent Structured Data Layer
+  - Designing XML Sitemaps for Generative Crawlers
+  - Configuring Robots.txt for Responsible AI Access
+  - Optimizing Metadata for AI Comprehension
 
-### 🚀 Strategic Growth
-- [Chapter 6: Advanced GEO Strategies](#chapter-5-advanced-geo-strategies)
-  - [Topic Clustering for AI](#51-topic-clustering-for-ai)
-  - [Authority Building](#52-authority-building)
-  - [Citation Optimization](#53-citation-optimization)
-  - [Long-Tail Conversational Keywords](#54-long-tail-conversational-keywords)
-  - [Multi-Platform Content Strategy](#55-multi-platform-content-strategy)
+### 🚀 Strategic Growth  
+- [Chapter 6: Expanding GEO Influence and Brand Authority](#chapter-6-expanding-geo-influence-and-brand-authority)
+  - Building Semantic Topic Clusters for AI 
+  - Establishing Brand Authority in Generative Search
+  - Optimizing Citations and External Mentions  
+  - Designing Long-Tail Conversational Prompts
+  - Executing a Multi-Platform GEO Strategy
 
-### 📊 Analytics & Tools
-- [Chapter 7: GEO Tools and Analytics](#chapter-6-geo-tools-and-analytics)
-  - [Content Audit Tools](#61-content-audit-tools)
-  - [AI Visibility Tracking](#62-ai-visibility-tracking)
-  - [Citation Monitoring](#63-citation-monitoring)
-  - [Performance Measurement](#64-performance-measurement)
-  - [ROI Calculation](#65-roi-calculation)
+### 📊 Analytics & Tools  
+- [Chapter 7: Measuring, Tracking, and Improving GEO Performance](#chapter-7-measuring-tracking-and-improving-geo-performance)
+  - Auditing Your GEO Content and Structure
+  - Tracking AI Visibility Across Platforms
+  - Monitoring Citations and Mentions in Real Time
+  - Measuring Performance and Impact 
+  - Calculating ROI of GEO Initiatives
 
-
-### 📖 Useful Materials
-- [Chapter 8: Appendix)
-  - [Tools and Platforms]
-  - [Research Papers]
-  - [Market Analysis]
+### 📖 Useful Materials  
+- [Chapter 8: Appendix — Resources, Research & Industry Insights](#chapter-8-appendix-resources-research-and-industry-insights)
+  - 🧰 Tools & Platforms
+  - 📚 Research Papers & Academic Studies
+  - 📊 Market Reports & Benchmark Studies
+  - 🧭 Frameworks & Templates
+  - 🌐 Further Reading & Learning Resources
 
 ---
 
