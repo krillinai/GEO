@@ -34,8 +34,8 @@ Each chapter is both **educational and actionable** — think of this as a *whit
   - [The Life Cycle of an AI Answer](#the-life-cycle-of-an-ai-answer)
  
 
-### 🧩 Key Definations
-- [Chapter 3: How AI search works](#chapter-2-how-ai-search-works.md)
+### 🧩 Understanding GEO Terminology & Measurement
+- [Chapter 3: Key Definitions and Core Metrics ](#chapter3-metrics.md)
   - [From Retrieval to Generation](#from-retrieval-to-generation)
   - [Core Components of AI Search](#core-components-of-ai-search)
   - [How AI Evaluates Sources](#how-ai-evaluates-sources)
