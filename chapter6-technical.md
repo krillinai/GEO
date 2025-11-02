@@ -1,4 +1,4 @@
-# Chapter 5: Technical GEO Implementation
+# Chapter 6: Technical GEO Implementation
 
 While content defines *what* AI understands, **technical GEO** determines *whether* AI can **find, parse, and trust** it.  
 Generative engines rely heavily on **structured data**, **clear site signals**, and **machine-readable frameworks** to identify authoritative sources.
@@ -7,7 +7,7 @@ This chapter covers the key technical elements that make your site AI-friendly.
 
 ---
 
-## 5.1 Schema.org Markup for AI
+## 6.1 Schema.org Markup for AI
 
 Structured data is the foundation of **machine comprehension**.  
 By embedding Schema.org markup (in JSON-LD format), you help AI engines interpret your pages precisely — identifying what’s an organization, product, review, FAQ, or dataset.
@@ -56,7 +56,7 @@ By embedding Schema.org markup (in JSON-LD format), you help AI engines interpre
 </script>
 </code></pre>
 
-## 5.2 Building a Consistent Structured Data Layer
+## 6.2 Building a Consistent Structured Data Layer
 
 Structured data helps AI models understand **hierarchies, relationships, and semantics**.  
 It’s what bridges your content and how AI systems perceive your brand.
@@ -72,7 +72,7 @@ It’s what bridges your content and how AI systems perceive your brand.
 
 ---
 
-## 5.3 XML Sitemaps for AI Discovery
+## 6.3 XML Sitemaps for AI Discovery
 
 Sitemaps are not just for search engines anymore — they guide AI crawlers to your most relevant, authoritative, and updated pages.
 
@@ -102,7 +102,7 @@ Sitemaps are not just for search engines anymore — they guide AI crawlers to y
 
 ---
 
-## 5.4 Robots.txt Configuration for AI Crawlers
+## 6.4 Robots.txt Configuration for AI Crawlers
 
 A well-structured `robots.txt` ensures that AI engines and traditional bots can access your content appropriately —  
 and that sensitive or irrelevant pages are excluded.
@@ -135,7 +135,7 @@ Disallow: /test/
 Sitemap: https://www.krillin.ai/sitemap.xml
 
 
-## 5.5 Metadata Optimization for AI Understanding
+## 6.5 Metadata Optimization for AI Understanding
 
 Meta tags are no longer just SEO tools — they now communicate **intent, authorship, and structure** to AI platforms.  
 Modern AI systems use metadata to interpret content hierarchy, freshness, and credibility before even reading the full text.
