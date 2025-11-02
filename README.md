@@ -78,9 +78,9 @@ Each chapter is both **educational and actionable** — think of this as a *whit
 
 ### 📖 Useful Materials
 - [Chapter 8: Appendix)
-- [Tools and Platforms]
-- [Research Papers]
-- [Market Analysis]
+  - [Tools and Platforms]
+  - [Research Papers]
+  - [Market Analysis]
 
 ---
 
