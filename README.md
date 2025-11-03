@@ -3,6 +3,11 @@
 > Written and Maintained by [KrillinAI](https://github.com/KrillinAI), an AI team focused on **content intelligence** and **global growth**.  
 > © 2025 KrillinAI. All rights reserved.
 
+
+ **[English](/README.md)｜[简体中文](/README.zh.md)｜[日本語](/README.jp.md)｜[한국어](/README.kr.md)｜[Tiếng Việt](/README.vi.md)｜[Français](/README.fr.md)｜[Deutsch](/README.de.md)｜[Español](/README.es.md)｜[Português](/README.pt.md)｜[Русский](/README.rus.md)｜[اللغة العربية](/README.ar.md)**
+
+
+
 ## 🧩 What is this document about
 
 This repository is a **comprehensive technical and strategic guide** to **Generative Engine Optimization (GEO)** — the new discipline of making your brand *visible, credible, and citable* in AI-generated answers.  
