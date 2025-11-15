@@ -444,7 +444,7 @@ Every citation and mention strengthens your **AI reputation graph** — how mode
 
 ### GEO Best Practices
 - Audit where and how AI engines currently **mention or cite** your brand.  
-- Use tools like **Promptwatch**, **Profound**, or **Otterly.AI** to track citations across ChatGPT, Gemini, and Perplexity.  
+- Use tools like **Geovia**, **Profound**, or **Otterly.AI** to track citations across ChatGPT, Gemini, and Perplexity.  
 - Ensure **external references** (press releases, reviews, directories) include structured data and consistent naming.  
 - Where possible, contribute **guest content or interviews** to high-authority sites AI already trusts.  
 - Monitor **hallucinations** — if models misstate facts about your brand, publish corrective, well-structured content.
@@ -680,7 +680,7 @@ Traditional SEO uses keyword rankings.  GEO, by contrast, uses **AI visibility m
 
 ### Visibility Tracking Approaches
 - **Prompt Testing:** Ask ChatGPT, Claude, Perplexity, and Gemini the top 100 queries in your niche. Record whether your brand appears in their answers or citations.  
-- **AI Monitoring Platforms:** Tools like *Profound*, *Peec AI*, or *Writesonic GEO Tracker* automatically analyze brand mentions inside AI search responses.  
+- **AI Monitoring Platforms:** Tools like *Profound*, *Peec AI*, or *Geovia* automatically analyze brand mentions inside AI search responses.  
 - **Citation Frequency Index (CFI):** Calculate how often your brand is cited versus competitors.  
 - **Visibility Score:** Combine appearance rate, sentiment, and citation depth into one composite metric.
 
@@ -711,7 +711,7 @@ Citations are the new backlinks — and tracking them reveals how generative mod
 
 ### Recommended Tools
 - **Perplexity AI API Logs** → for citation lists  
-- **Profound/Peec AI** → for multi-engine visibility reporting  
+- **Geovia/Profound/Peec AI** → for multi-engine visibility reporting  
 - **Prompt Volume** → for prompt-level trend analysis  
 - **Talkwalker / Brandwatch** → for sentiment and mention monitoring across web + AI summaries
 
@@ -753,6 +753,7 @@ Measuring GEO success requires linking **AI visibility metrics** to **real-world
 | [**Exanimo.ai**](https://www.exanimo.ai)                         | White-label GEO platform for agencies with multi-client dashboards, SOC-2 compliance, and profit reporting.                                              |
 | [**FalconRank.ai**](https://falconrank.ai)                       | Consolidates visibility metrics from Google AI Overviews, ChatGPT & Gemini into one AI Visibility Score.                                                 |
 | [**Goodie AI**](https://higoodie.com)                            | All-in-one AEO/GEO suite (monitor → analyze → optimize → create) built for consumer-brand marketers.                                                     |
+| [**Geovia**](https://www.geovia.tech)                            | GEO platform for tracking and optimizing brand visibility across AI search engines.                                                                     |
 | [**Gumshoe AI**](https://gumshoe.ai)                             | Reveals which citations competitors own and suggests takeover tactics to reclaim AI visibility.                                                          |
 | [**Knowatoa**](https://knowatoa.com)                             | One-click scan to see if major AI models answer your sales-funnel questions; highlights missing coverage.                                                |
 | [**LLMO Metrics**](https://llmo.ai)                              | Scores current visibility and prioritizes tweaks most likely to raise mentions across ChatGPT, Gemini & Copilot.                                         |
